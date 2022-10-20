@@ -1,8 +1,9 @@
 -- SQLBook: Code
 -- Active: 1666271376114@@127.0.0.1@3306@kart_data_test
 -- SQLBook: Markup
-#### 테이블 명 : single_1008
-#### 수집 기간 : 2022-10-08 00:00:00 ~ 2022-10-08 23:58:00
+- 테이블 명 : single_1008
+- 테이블 설명 : 넥슨 API에서 수집한 카트라이더 스피드 개인전 매치, 유저 데이터
+- 수집 기간 : 2022-10-08 00:00:00 ~ 2022-10-08 23:58:00
 -- SQLBook: Markup
 ## 1. EDA
 -- SQLBook: Markup
@@ -84,28 +85,28 @@ SELECT DISTINCT matchTime
 FROM single_1008
 WHERE matchRetired=1;
 -- SQLBook: Markup
-#### (5). matchWin은 승리는 1, 패배 or 게임 종료는 0이다.
+#### (6). matchWin은 승리는 1, 패배 or 게임 종료는 0이다.
 - 게임 종료 한 유저도 matchWin이 0이기 때문에, matchWin = 0 인 유저 중에 패배한 유저만 보려면 matchRank가 0이 아닌(게임 종료 유저를 제외하는) 조건을 걸어줘야한다.
 -- SQLBook: Code
-#(5)-1. matchWin은 승리는 1, 패배는 0, 게임 종료시 ""
+#(6)-1. matchWin은 승리는 1, 패배는 0, 게임 종료시 ""
 #검증 결과 : 1과 0만 있다.
 SELECT DISTINCT matchwin
 FROM single_1008;
 -- SQLBook: Markup
-#### (6). matchTime은 같은 matchid더라도 순위에 따라 다르게 나오는 값이다. 
+#### (7). matchTime은 같은 matchid더라도 순위에 따라 다르게 나오는 값이다. 
 - 마지막 3자리가 밀리세컨드 부분, 그 앞에는 시, 분 ,초의 값이다.
 - 밀리세컨드 단위로 순위가 많이 갈린다. 
 -- SQLBook: Code
-#(6)-1. matchTime은 같은 matchid더라도 순위에 따라 다르게 나오는 값이다.
+#(7)-1. matchTime은 같은 matchid더라도 순위에 따라 다르게 나오는 값이다.
 #검증결과 : 검증 완료
 SELECT matchRank, characterName, matchRetired, matchWin,matchTime 
 FROM single_1008
 WHERE matchId = "02310018024ac90a"
 ORDER BY 1;
 -- SQLBook: Markup
-#### (7). characterName과 accountNo는 고유한 값이다.
+#### (8). characterName과 accountNo는 고유한 값이다.
 -- SQLBook: Code
-#(7)-1. characterName과 accountNo는 고유한 값일 것이다.
+#(8)-1. characterName과 accountNo는 고유한 값일 것이다.
 #검증결과 : 검증 완료
 SELECT COUNT(DISTINCT characterName), COUNT(DISTINCT accountNo)
 FROM single_1008;
