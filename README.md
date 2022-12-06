@@ -7,6 +7,20 @@
 ### 12월 
 
 <details>
+<summary>221205</summary>
+<div markdown="1">
+
+* LeetCode SQL 문제 1393. Capital Gain/Loss 풀기(Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221205] LeetCode_1393. Capital GainLoss.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221205%5D%20LeetCode_1393.%20Capital%20GainLoss.md)
+
+</div>
+</details>
+
+
+
+<details>
 <summary>221203</summary>
 <div markdown="1">
 
