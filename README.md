@@ -7,6 +7,19 @@
 ### 12월 
 
 <details>
+<summary>221206</summary>
+<div markdown="1">
+
+* LeetCode SQL 문제 608. Tree Node 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221206] LeetCode_608. Tree Node.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221206%5D%20LeetCode_608.%20Tree%20Node.md)
+
+</div>
+</details>
+
+
+<details>
 <summary>221205</summary>
 <div markdown="1">
 
