@@ -7,13 +7,26 @@
 ### 12월 
 
 <details>
+<summary>221207</summary>
+<div markdown="1">
+
+* LeetCode SQL 문제 601. Human Traffic of Stadium 풀기(Hard난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221207] LeetCode_601. Human Traffic of Stadium.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221207%5D%20LeetCode_601.%20Human%20Traffic%20of%20Stadium.md)
+
+</div>
+</details>
+
+
+<details>
 <summary>221206</summary>
 <div markdown="1">
 
-* LeetCode SQL 문제 608. Tree Node 풀기 (Medium난이도)
+* LeetCode SQL 문제 1393. Capital Gain/Loss 풀기(Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221206] LeetCode_608. Tree Node.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221206%5D%20LeetCode_608.%20Tree%20Node.md)
+  * 코드 : [[221205] LeetCode_1393. Capital GainLoss.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221205%5D%20LeetCode_1393.%20Capital%20GainLoss.md)
 
 </div>
 </details>
