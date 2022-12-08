@@ -7,6 +7,20 @@
 ### 12월 
 
 <details>
+<summary>221208</summary>
+<div markdown="1">
+
+* LeetCode SQL 문제 185. Department Top Three Salaries 풀기(Hard난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221208] LeetCode_185. Department Top Three Salaries.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221208%5D%20LeetCode_185.%20Department%20Top%20Three%20Salaries.md)
+
+</div>
+</details>
+
+
+
+<details>
 <summary>221207</summary>
 <div markdown="1">
 
