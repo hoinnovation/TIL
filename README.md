@@ -7,6 +7,19 @@
 ### 12월 
 
 <details>
+<summary>221210</summary>
+<div markdown="1">
+
+* LeetCode SQL 문제 262. Trips and Users 풀기(Hard난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221210] LeetCode_262. Trips and Users.md
+](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221210%5D%20LeetCode_262.%20Trips%20and%20Users.md)
+
+</div>
+</details>
+
+<details>
 <summary>221208</summary>
 <div markdown="1">
 
