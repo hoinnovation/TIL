@@ -7,6 +7,19 @@
 ### 12월 
 
 <details>
+<summary>221212</summary>
+<div markdown="1">
+
+* LeetCode SQL 문제 180. Consecutive Numbers 풀기(Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221212] LeetCode_180. Consecutive Numbers.md
+](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221212%5D%20LeetCode_180.%20Consecutive%20Numbers.md)
+
+</div>
+</details>
+
+<details>
 <summary>221210</summary>
 <div markdown="1">
 
