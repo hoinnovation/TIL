@@ -7,14 +7,26 @@
 ### 12월 
 
 <details>
+<summary>221213</summary>
+<div markdown="1">
+
+* LeetCode SQL 문제 177. Nth Highest Salary 풀기(Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221213] LeetCode_177. Nth Highest Salary.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221213%5D%20LeetCode_177.%20Nth%20Highest%20Salary.md)
+
+</div>
+</details>
+
+
+<details>
 <summary>221212</summary>
 <div markdown="1">
 
 * LeetCode SQL 문제 180. Consecutive Numbers 풀기(Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221212] LeetCode_180. Consecutive Numbers.md
-](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221212%5D%20LeetCode_180.%20Consecutive%20Numbers.md)
+  * 코드 : [[221212] LeetCode_180. Consecutive Numbers.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221212%5D%20LeetCode_180.%20Consecutive%20Numbers.md)
 
 </div>
 </details>
