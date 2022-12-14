@@ -2,9 +2,47 @@
 > TIL에 매일 학습한 내용을 기록합니다.  
 > 항상 무언가를 듣고, 무언가를 생각하며, 무언가를 배우려고합니다.
 
-## 2022년
 
-### 12월 
+
+## 2022년
+#### small success🎉
+<details>
+<summary>LeetCode SQL 문제 Medium, Hard 풀기 </summary>
+<div markdown="1">
+※preminum제외
+
+* [176. Second Highest Salary](SQL/[221202]%20LeetCode_176.%20Second%20Highest%20Salary.md)
+* [177. Nth Highest Salary](SQL/[221213]%20LeetCode_177.%20Nth%20Highest%20Salary.md)
+* [178. Rank Scores.md](SQL/[221201]%20LeetCode_178.%20Rank%20Scores.md)
+* [180. Consecutive Numbers](SQL/[221212]%20LeetCode_180.%20Consecutive%20Numbers.md)
+* [184. Department Highest Salary](SQL/[221214]%20LeetCode_184.%20Department%20Highest%20Salary.md)
+* [185. Department Top Three Salaries](SQL/[221208]%20LeetCode_185.%20Department%20Top%20Three%20Salaries.md)
+* [262. Trips and Users](SQL/[221210]%20LeetCode_262.%20Trips%20and%20Users.md)
+* [601. Human Traffic of Stadium](SQL/[221207]%20LeetCode_601.%20Human%20Traffic%20of%20Stadium.md)
+* [608. Tree Node](SQL/[221206]%20LeetCode_608.%20Tree%20Node.md)
+* [626. Exchange Seats](SQL/[221129]%20LeetCode_626.%20Exchange%20Seats.md)
+* [1158. Market Analysis I](SQL/[221203]%20LeetCode_1158.%20Market%20Analysis%20I.md)
+* [1393. Capital GainLoss](SQL/[221205]%20LeetCode_1393.%20Capital%20GainLoss.md)
+</div>
+</details>
+
+
+#### 12월 
+
+<details>
+<summary>221214</summary>
+<div markdown="1">
+
+* 고객을 끌어오는 구글 애널리틱스4 학습
+  * chat1. 구글 애널리틱스 시작하기(~47p) 
+  
+* LeetCode SQL 문제 184. Department Highest Salary 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221214] LeetCode_184. Department Highest Salary.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221214%5D%20LeetCode_184.%20Department%20Highest%20Salary.md)
+
+</div>
+</details>
 
 <details>
 <summary>221213</summary>
