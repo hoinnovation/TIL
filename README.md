@@ -33,8 +33,9 @@
 <summary>221214</summary>
 <div markdown="1">
 
-* 고객을 끌어오는 구글 애널리틱스4 학습
-  * chat1. 구글 애널리틱스 시작하기(~47p) 
+* 책 "고객을 끌어오는 구글 애널리틱스4" 학습
+  * 목적 : GA4 학습
+  * 내용 : chat1. 구글 애널리틱스 시작하기(~47p) 
   
 * LeetCode SQL 문제 184. Department Highest Salary 풀기 (Medium난이도)
   * 목적 : sql 학습
