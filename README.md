@@ -5,7 +5,7 @@
 
 
 ## 2022년
-#### small success🎉
+### small success🎉
 <details>
 <summary>LeetCode SQL 문제 Medium, Hard 풀기 </summary>
 <div markdown="1">
@@ -27,7 +27,7 @@
 </details>
 
 
-#### 12월 
+### 12월 
 
 <details>
 <summary>221214</summary>
