@@ -30,6 +30,19 @@
 ### 12월 
 
 <details>
+<summary>221216</summary>
+<div markdown="1">
+  
+* Hackerrank SQL 문제 Occupations 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221216] Hackerrank_Occupations.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221216%5D%20Hackerrank_Occupations.md)
+
+</div>
+</details>
+
+
+<details>
 <summary>221215</summary>
 <div markdown="1">
   
