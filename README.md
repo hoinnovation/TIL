@@ -30,6 +30,29 @@
 ### 12월 
 
 <details>
+<summary>221217</summary>
+<div markdown="1">
+
+* 책 "데이터는 어떻게 자산이 되는가?" 읽기
+  * 목적 : 데이터 가공 및 유통산업, 데이터 경제 이해
+  * 내용 : 첫째 마당. 데이터 자본주의가 온다
+    * 데이터 상품 종류
+      * 1단계 : 전혀 가공되지 않은 원천 데이터
+      * 2단계 : 정제돼 단순히 연결·통합된 데이터
+      * 3단계 : 데이터 융합으로 만들어진 데이터
+      * 4단계 : 분석 알고리즘을 활용한 지수 또는 측정 데이터
+
+* Hackerrank SQL 문제 Ollivander's Inventory 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221217] Hackerrank_Ollivander's Inventory.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221217%5D%20Hackerrank_Ollivander's%20Inventory.md)
+
+</div>
+</details>
+
+
+
+<details>
 <summary>221216</summary>
 <div markdown="1">
   
