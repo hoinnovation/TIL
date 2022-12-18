@@ -30,6 +30,18 @@
 ### 12월 
 
 <details>
+<summary>221219</summary>
+<div markdown="1">
+
+* Hackerrank SQL 문제 New Companies 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221219] Hackerrank_New Companies.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221219%5D%20Hackerrank_New%20Companies.md)
+
+</div>
+</details>
+
+<details>
 <summary>221218</summary>
 <div markdown="1">
 
