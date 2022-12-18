@@ -30,6 +30,21 @@
 ### 12월 
 
 <details>
+<summary>221218</summary>
+<div markdown="1">
+
+* 시장 진입 전략, 사업성 검토 방법론 스터디 
+  * 목적 : 업무 활용 
+
+* Hackerrank SQL 문제 Top Competitors 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221218] Hackerrank_Top Competitors.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221218%5D%20Hackerrank_Top%20Competitors.md)
+
+</div>
+</details>
+
+<details>
 <summary>221217</summary>
 <div markdown="1">
 
