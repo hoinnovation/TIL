@@ -30,6 +30,23 @@
 ### 12월 
 
 <details>
+<summary>221220</summary>
+<div markdown="1">
+
+* 책 "데이터는 어떻게 자산이 되는가?" 읽기
+  * 목적 : 데이터 분류 체계 수립을 위한 학습
+  * 내용 : 넷째마당. 데이터 생태계를 구축하라
+    * 택사노미(Taxonomy)는 데이터를 활용하기위한 인사이트를 찾는데 유용한 툴으로, 데이터들의 내용상 유사성이나 관계를 고려해 그룹을 분류하고 체계를 만든다. 기업은 비즈니스의 목적과 사업전략에 따라 다양한 택사노미를 구성하고 지속적으로 관리 및 업데이트 해야한다.
+
+* Hackerrank SQL 문제 Weather Observation Station 19 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221220] Hackerrank_Weather Observation Station 19.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221220%5D%20Hackerrank_Weather%20Observation%20Station%2019.md)
+
+</div>
+</details>
+
+<details>
 <summary>221219</summary>
 <div markdown="1">
 
