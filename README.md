@@ -30,6 +30,18 @@
 ### 12월 
 
 <details>
+<summary>221223</summary>
+<div markdown="1">
+
+* Hackerrank SQL 문제 SQL Project Planning 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221223] HackerRank_SQL Project Planning.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221223%5D%20HackerRank_SQL%20Project%20Planning.md)
+
+</div>
+</details>
+
+<details>
 <summary>221222</summary>
 <div markdown="1">
 
