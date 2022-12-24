@@ -30,6 +30,18 @@
 ### 12월 
 
 <details>
+<summary>221224</summary>
+<div markdown="1">
+
+* Hackerrank SQL 문제 Weather Observation Station 20 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221224] HackerRank_Weather Observation Station 20.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221224%5D%20HackerRank_Weather%20Observation%20Station%2020.md)
+
+</div>
+</details>
+
+<details>
 <summary>221223</summary>
 <div markdown="1">
 
