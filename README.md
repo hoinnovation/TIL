@@ -36,7 +36,7 @@
 * Hackerrank SQL 문제 Weather Observation Station 20 풀기 (Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221224] HackerRank_Weather Observation Station 20.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221224%5D%20HackerRank_Weather%20Observation%20Station%2020.md)
+  * 코드 : [[221224] HackerRank_Weather Observation Station 20.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221224%5D%20HackerRank_Weather%20Observation%20Station%2020.md)
 
 </div>
 </details>
@@ -48,7 +48,7 @@
 * Hackerrank SQL 문제 SQL Project Planning 풀기 (Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221223] HackerRank_SQL Project Planning.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221223%5D%20HackerRank_SQL%20Project%20Planning.md)
+  * 코드 : [[221223] HackerRank_SQL Project Planning.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221223%5D%20HackerRank_SQL%20Project%20Planning.md)
 
 </div>
 </details>
@@ -60,7 +60,7 @@
 * Hackerrank SQL 문제 Weather Observation Station 18 풀기 (Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221222] HackerRank_Weather Observation Station 18.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221222%5D%20HackerRank_Weather%20Observation%20Station%2018.md)
+  * 코드 : [[221222] HackerRank_Weather Observation Station 18.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221222%5D%20HackerRank_Weather%20Observation%20Station%2018.md)
 
 </div>
 </details>
@@ -72,7 +72,7 @@
 * Hackerrank SQL 문제 Placements 풀기 (Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221221] Hackerrank_Placements.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221221%5D%20Hackerrank_Placements.md)
+  * 코드 : [[221221] Hackerrank_Placements.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221221%5D%20Hackerrank_Placements.md)
 
 </div>
 </details>
@@ -89,7 +89,7 @@
 * Hackerrank SQL 문제 Weather Observation Station 19 풀기 (Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221220] Hackerrank_Weather Observation Station 19.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221220%5D%20Hackerrank_Weather%20Observation%20Station%2019.md)
+  * 코드 : [[221220] Hackerrank_Weather Observation Station 19.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221220%5D%20Hackerrank_Weather%20Observation%20Station%2019.md)
 
 </div>
 </details>
@@ -101,7 +101,7 @@
 * Hackerrank SQL 문제 New Companies 풀기 (Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221219] Hackerrank_New Companies.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221219%5D%20Hackerrank_New%20Companies.md)
+  * 코드 : [[221219] Hackerrank_New Companies.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221219%5D%20Hackerrank_New%20Companies.md)
 
 </div>
 </details>
@@ -116,7 +116,7 @@
 * Hackerrank SQL 문제 Top Competitors 풀기 (Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221218] Hackerrank_Top Competitors.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221218%5D%20Hackerrank_Top%20Competitors.md)
+  * 코드 : [[221218] Hackerrank_Top Competitors.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221218%5D%20Hackerrank_Top%20Competitors.md)
 
 </div>
 </details>
@@ -137,7 +137,7 @@
 * Hackerrank SQL 문제 Ollivander's Inventory 풀기 (Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221217] Hackerrank_Ollivander's Inventory.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221217%5D%20Hackerrank_Ollivander's%20Inventory.md)
+  * 코드 : [[221217] Hackerrank_Ollivander's Inventory.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221217%5D%20Hackerrank_Ollivander's%20Inventory.md)
 
 </div>
 </details>
@@ -151,7 +151,7 @@
 * Hackerrank SQL 문제 Occupations 풀기 (Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221216] Hackerrank_Occupations.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221216%5D%20Hackerrank_Occupations.md)
+  * 코드 : [[221216] Hackerrank_Occupations.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221216%5D%20Hackerrank_Occupations.md)
 
 </div>
 </details>
@@ -164,7 +164,7 @@
 * Hackerrank SQL 문제 Binary Tree Nodes 풀기 (Medium난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221215] Hackerrank_Binary Tree Nodes.md](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221215%5D%20Hackerrank_Binary%20Tree%20Nodes.md)
+  * 코드 : [[221215] Hackerrank_Binary Tree Nodes.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221215%5D%20Hackerrank_Binary%20Tree%20Nodes.md)
 
 </div>
 </details>
