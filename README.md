@@ -347,21 +347,6 @@
 
 
 <details>
-<summary>221025</summary>
-<div markdown="1">
-
-* 넥슨 카트라이더 API로 수집한 데이터로 주요 지표(트랙 사용 수, 트랙 주행 시간, 리타이어률) 계산
-  * 데이터 설명 : 넥슨 API에서 수집한 카트라이더 개인전 매치, 유저 데이터
-  * 수집 기간 : 2021-10-04 00:00:00 ~ 2022-10-07 00:00:00
-  * 사용기술 : SQL(`MYSQL`)
-  * 코드 : [[221025] 넥슨 카트라이더 API 데이터 EDA _3일치 데이터.sql](https://github.com/hoinnovation/TIL/blob/main/SQL/%5B221025%5D%20%EB%84%A5%EC%8A%A8%20%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94%20API%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20EDA%20_3%EC%9D%BC%EC%B9%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0.sql)
-
-</div>
-</details>
-
-
-
-<details>
 <summary>221024</summary>
 <div markdown="1">
 
