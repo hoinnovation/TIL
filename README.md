@@ -28,6 +28,21 @@
 
 
 ### 12월 
+<details>
+<summary>221226</summary>
+<div markdown="1">
+
+* Python- 한국어 형태소 분석기 konlpy과 Kowi 스터디
+  * 목적 : 텍스트에서 주요 키워드 추출을 위한 학습
+  * 내용 : 동일한 text를 5가지(kKma, Komoran, Hannaum, Okt, kiwi) 품사 태깅 클래스로 태그해보며 비교 
+
+* Hackerrank SQL 문제 Challenges 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221226] Hackerrank_Challenges.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221226%5D%20Hackerrank_Challenges.md)
+
+</div>
+</details>
 
 <details>
 <summary>221224</summary>
