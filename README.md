@@ -28,11 +28,34 @@
 
 
 ### 12월 
+
+<details>
+<summary>221227</summary>
+<div markdown="1">
+
+* Python- 한국어 형태소 분석기 konlpy과 kiwi를 사용해서 단어 빈도 분석 후 결과 비교
+  * 목적 : text에서 중요한 키워드 추출
+  * 내용 : 동일한 text를 5가지(kKma, Komoran, Hannaum, Okt, Mecab, kiwi)를 사용하여 명사 빈도 계산 
+    * 221226에 Mecab 설치 error로 비교 못해봤는데 오늘 해결하여 비교 진행함 `(블로그 업로드 예정)`
+
+* Python- 동시 출현 단어 분석
+  * 목적 : 단어 간의 관계를 살펴보고, 키워드 추출 시 조건 만들어주는데 활용 
+  * 내용 : 추출한 명사로 동시 출현 빈도를 저장하여 비교 
+
+* Hackerrank SQL 문제 Challenges 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221227] Hackerrank_Contest Leaderboard.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221227%5D%20Hackerrank_Contest%20Leaderboard.md)
+
+</div>
+</details>
+
+
 <details>
 <summary>221226</summary>
 <div markdown="1">
 
-* Python- 한국어 형태소 분석기 konlpy과 Kowi 스터디
+* Python- 한국어 형태소 분석기 konlpy과 Kiwi 스터디
   * 목적 : 텍스트에서 주요 키워드 추출을 위한 학습
   * 내용 : 동일한 text를 5가지(kKma, Komoran, Hannaum, Okt, kiwi) 품사 태깅 클래스로 태그해보며 비교 
 
