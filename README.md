@@ -30,6 +30,18 @@
 ### 12월 
 
 <details>
+<summary>221228</summary>
+<div markdown="1">
+
+* Hackerrank SQL 문제 Symmetric Pairs 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221228] Hackerrank_Symmetric Pairs.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221228%5D%20Hackerrank_Symmetric%20Pairs.md)
+
+</div>
+</details>
+
+<details>
 <summary>221227</summary>
 <div markdown="1">
 
