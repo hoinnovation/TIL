@@ -16,3 +16,4 @@
   * [Challenges](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221226%5D%20Hackerrank_Challenges.md)
   * [Contest Leaderboard](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221227%5D%20Hackerrank_Contest%20Leaderboard.md)
   * [Symmetric Pairs](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221228%5D%20Hackerrank_Symmetric%20Pairs.md)
+  * [The Report](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221229%5D%20Hackerrank_The%20Report.md)
