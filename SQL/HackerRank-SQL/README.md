@@ -15,3 +15,4 @@
   * [Weather Observation Station 20](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221224%5D%20HackerRank_Weather%20Observation%20Station%2020.md)
   * [Challenges](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221226%5D%20Hackerrank_Challenges.md)
   * [Contest Leaderboard](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221227%5D%20Hackerrank_Contest%20Leaderboard.md)
+  * [Symmetric Pairs](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221228%5D%20Hackerrank_Symmetric%20Pairs.md)
