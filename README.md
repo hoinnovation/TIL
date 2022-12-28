@@ -30,6 +30,24 @@
 ### 12월 
 
 <details>
+<summary>221229</summary>
+<div markdown="1">
+
+* MECE 프레임 워크 학습
+ * 목적 : 효과적인 보고서 작성 스킬 습득
+
+* PSI(모집단안정지수, Population Stability Index) 지표 스터디
+  * 목적 : 두개의 분포가 차이가 있는지 없는지 측정하기 위해 분석 방법 학습
+
+* Hackerrank SQL 문제 The Report 풀기 (Medium난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221229] Hackerrank_The Report.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221229%5D%20Hackerrank_The%20Report.md)
+
+</div>
+</details>
+
+<details>
 <summary>221228</summary>
 <div markdown="1">
 
