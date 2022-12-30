@@ -8,9 +8,6 @@
 * 조건 : Grade < 8인 학생은 Name을 "NULL"을 출력
 * 정렬 조건 : Grade 내림차순, Name 오름차순, Mark 오름차순
 
-### 의미
-
-
 ### MY SQL 정답
 ```SQL
 
