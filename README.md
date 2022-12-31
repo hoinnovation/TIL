@@ -30,6 +30,19 @@
 ### 12월 
 
 <details>
+<summary>221231</summary>
+<div markdown="1">
+
+* Hackerrank SQL 문제 15 Days of Learning SQL 풀기 시도 (Hard 난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[221231] Hackerrank_15 Days of Learning SQL.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221231%5D%20Hackerrank_15%20Days%20of%20Learning%20SQL.md)
+  * 향후 계획 : 에러 발생하여 원인 찾아보고 다시 풀어보기
+ 
+</div>
+</details>
+
+<details>
 <summary>221229</summary>
 <div markdown="1">
 
