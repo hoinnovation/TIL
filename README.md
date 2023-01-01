@@ -48,9 +48,27 @@
 </div>
 </details>
 
----
+
 
 ## 02. TIL 🚀
+
+#### 2023년 1월 
+
+<details>
+<summary>230101</summary>
+<div markdown="1">
+
+* Hackerrank SQL 문제 15 Days of Learning SQL 풀기 시도 (Hard 난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`ORACLE`)
+  * 코드 : [[221231,230101] Hackerrank_15 Days of Learning SQL.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221231%2C230101%5D%20Hackerrank_15%20Days%20of%20Learning%20SQL.md)
+  * 학습 내용 : 
+    * 어제 발생 한 에러 원인 파악 (MY SQL Version 문제)
+    * 어제 풀이한 과정을 ORACLE에 맞게 쿼리 일부 수정하여 풀이 진행 → RONG ANSWER 발생
+  * 향후 계획 : `ORACLE` WRONG ANSWER 발생한 원인 찾아보고 다시 풀어보기
+ 
+</div>
+</details>
 
 #### 2022년 12월 
 
