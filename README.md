@@ -2,28 +2,32 @@
 > TIL에 매일 학습한 내용을 기록합니다.  
 > 항상 무언가를 듣고, 무언가를 생각하며, 무언가를 배우려고합니다.
 
-## 2023년
-### 1월 
+## 01. small success🎉
 
+#### 2022년
 <details>
-<summary>230101</summary>
+<summary>1일 1커밋 습관 달성</summary>
 <div markdown="1">
 
-* Hackerrank SQL 문제 15 Days of Learning SQL 풀기 시도 (Hard 난이도)
-  * 목적 : sql 학습
-  * 사용기술 : SQL(`ORACLE`)
-  * 코드 : [[221231,230101] Hackerrank_15 Days of Learning SQL.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221231%2C230101%5D%20Hackerrank_15%20Days%20of%20Learning%20SQL.md)
-  * 학습 내용 : 
-    * 어제 발생 한 에러 원인 파악 (MY SQL Version 문제)
-    * 어제 풀이한 과정을 ORACLE에 맞게 쿼리 일부 수정하여 풀이 진행 → RONG ANSWER 발생
-  * 향후 계획 : `ORACLE` WRONG ANSWER 발생한 원인 찾아보고 다시 풀어보기
- 
+* 기간 : 2022-11-24 ~ 2022-12-31 
+(`12월 9일 제외`)
+![image](https://user-images.githubusercontent.com/45919197/210174179-7d11ca81-9193-4174-a5a2-5fdb049d3230.png)
+
+
+* 달성할 수 있었던 전략 : 
+    *  `12월 9일`은 회식이 생겨 늦게 귀가하게되어 달성 못함😂
+    * 1일 1커밋을 달성을 위해 저녁에 일이 있는 경우는 아침 일찍 스터디 진행하여 다른 날은 모두 달성함🎉
+* 1일 1커밋으로 배운 점 : 
+  * 매일 쌓여가는 잔디를 보며 뿌듯함이 생기고, 1일 1커밋을 하고 싶어서 1개라도 공부해서 기록하게 됨 
+* 앞으로 적용할 점 
+  * SQL문제 풀이만 진행했는데, 공부의 다양성 확대 필요함
+    * SQL문제 다 풀면 Python 문제로 넘어가고, 문제 풀이 뿐 만 아니라 다른 공부도 진행하기
+
+
 </div>
 </details>
 
 
-## 2022년
-### small success🎉
 <details>
 <summary>LeetCode SQL 문제 Medium, Hard 풀기 </summary>
 <div markdown="1">
@@ -44,8 +48,11 @@
 </div>
 </details>
 
+---
 
-### 12월 
+## 02. TIL 🚀
+
+#### 2022년 12월 
 
 <details>
 <summary>221231</summary>
@@ -415,7 +422,7 @@
 </div>
 </details>
 
-### 11월
+#### 2022년 11월
 
 <details>
 <summary>221129</summary>
@@ -440,7 +447,7 @@
 </div>
 </details>
 
-### 10월
+#### 2022년 10월
 
 <details>
 <summary>221025</summary>
