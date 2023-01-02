@@ -55,13 +55,35 @@
 #### 2023년 1월 
 
 <details>
+<summary>230102</summary>
+<div markdown="1">
+
+* Hackerrank SQL 문제 15 Days of Learning SQL 풀기 (Hard 난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`ORACLE`, `MYSQL`)
+  * 코드 : [[230102] Hackerrank_15 Days of Learning SQL .md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B230102%5D%20Hackerrank_15%20Days%20of%20Learning%20SQL%20.md)
+
+* Hackerrank SQL 문제 15 Days of Learning SQL trobleshooting (Hard 난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`ORACLE`, `MYSQL`)
+  * 코드 : [[221231~230102] Hackerrank_15 Days of Learning SQL troubleshooting.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221231~230102%5D%20Hackerrank_15%20Days%20of%20Learning%20SQL%20troubleshooting.md)
+  * 학습 내용 : 
+    * 어제 풀이한 과정을 ORACLE에 맞게 쿼리 일부 수정하여 풀이 진행 → RONG ANSWER 발생한 원인 발견 후 수정
+      * `T1.submission_date > T2.submission_date`로 작성해야하는데 부호를 반대로 작성하여 오답 발생
+    * MYSQL 서브쿼리로 풀이 진행
+ 
+</div>
+</details>
+
+
+<details>
 <summary>230101</summary>
 <div markdown="1">
 
 * Hackerrank SQL 문제 15 Days of Learning SQL 풀기 시도 (Hard 난이도)
   * 목적 : sql 학습
   * 사용기술 : SQL(`ORACLE`)
-  * 코드 : [[221231,230101] Hackerrank_15 Days of Learning SQL.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221231%2C230101%5D%20Hackerrank_15%20Days%20of%20Learning%20SQL.md)
+  * 코드 : [230101 TIL-Hackerrank SQL 문제 15 Days of Learning SQL](https://github.com/hoinnovation/TIL/commit/d3d628316bf0bc3f78d81da2460d5b6f6e26cad3)
   * 학습 내용 : 
     * 어제 발생 한 에러 원인 파악 (MY SQL Version 문제)
     * 어제 풀이한 과정을 ORACLE에 맞게 쿼리 일부 수정하여 풀이 진행 → RONG ANSWER 발생
