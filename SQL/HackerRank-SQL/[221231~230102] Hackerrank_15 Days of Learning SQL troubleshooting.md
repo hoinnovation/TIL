@@ -11,9 +11,9 @@
   * 날짜별 오름차순 
 
 
-### MYSQL 풀이
+### MYSQL
 
-### 풀이 1. window function 사용 
+### 1. window function 사용 풀이
  * 에러 발생 (12/31 작성)
    * ERROR 1064 (42000) at line 4: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(PARTITION BY submission_date ORDER BY submission_cnt DESC, hacker_id ASC) AS su' at line 19
  * 다음 목표
@@ -92,11 +92,74 @@ FROM
 ORDER BY S1.submission_date ASC
 ```
 
+### 1. window function 사용 답변
+* MYSQL VERSION 문제로 ERROR 1064 발생할 수 있으나, 발생 안하는 경우 정답 
+  * 위의 풀이대로 풀고, `ORACLE`에 맞게 바꿔서 제출한 window function답변이 에러 발생함 
+  * 원인은 (1) 풀이 과정에서 부호가 잘못되었던 것임
+    * 부호에 맞게 수정 완료 
+  
+ ```SQL
+  SELECT S1.submission_date
+        ,S1.hacker_cnt
+        ,S2.hacker_id
+        ,H.name
+  FROM 
+      (SELECT submission_date
+            ,COUNT(DISTINCT hacker_id) AS hacker_cnt
+      FROM  Submissions AS T1
+      WHERE DATE_DIFF(submission_date,'2016-03-01') =
+            (SELECT COUNT(DISTINCT T2.submission_date)
+            FROM Submissions AS T2
+            WHERE T1.submission_date > T2.submission_date --기준 날짜 미만이어야한다.
+            AND T1.hacker_id = T2.hacker_id)
+            GROUP BY submission_date) AS S1
+      LEFT JOIN 
+      (SELECT submission_date, hacker_id
+      FROM(SELECT submission_date
+                  ,hacker_id
+                  ,ROW_NUMBER () OVER(PARTITION BY submission_date ORDER BY submission_cnt DESC, hacker_id ASC) AS submission_rank
+            FROM(SELECT submission_date
+                      ,hacker_id
+                      ,COUNT(submission_id) AS submission_cnt
+                FROM  Submissions
+                GROUP BY submission_date, hacker_id) AS T1) AS T2
+      WHERE submission_rank = 1) AS S2
+      ON S1.submission_date = S2.submission_date
+      LEFT JOIN Hackers AS H
+      ON S2.hacker_id = H.hacker_id
+  ORDER BY S1.submission_date ASC
+```
+
+### 2. 서브쿼리 사용 풀이 (`MY SQL 다른 사람 답변`)
+* [참고 사이트](https://github.com/BlakeBrown/HackerRank-Solutions/blob/master/SQL/5_Advanced%20Join/5_15%20Days%20of%20Learning%20SQL/15%20Days%20of%20Learning%20SQL.mysql) 
+ ```SQL
+      SELECT submission_date 
+            ,(SELECT COUNT(DISTINCT hacker_id) AS hacker_cnt 
+            FROM Submissions AS T2
+            WHERE T1.submission_date = T2.submission_date AND
+                  (DATEDIFF(submission_date,'2016-03-01') =
+                  (SELECT COUNT(DISTINCT T3.submission_date)
+                  FROM Submissions AS T3
+                  WHERE T1.submission_date > T3.submission_date 
+                  AND T2.hacker_id = T3.hacker_id)))
+      ,(SELECT hacker_id 
+            FROM Submissions T4
+            WHERE T1.submission_date = T4.submission_date 
+            GROUP BY hacker_id 
+            ORDER BY COUNT(submission_id) DESC, hacker_id 
+            LIMIT 1) AS T5
+            ,(SELECT NAME 
+            FROM Hackers 
+            WHERE hacker_id = T5)
+      FROM (SELECT DISTINCT submission_date FROM Submissions)  AS T1     
+      GROUP BY submission_date
+```
+
 
 ### ORACLE
 
-### 풀이 1. window function 사용 
-* my sql 답변에서, 아래의 내용 변경 
+### window function 사용 문제 풀이
+* my sql 답변에서, 아래의 내용 변경
   * Alias를 나타내는 AS를 삭제
   * DATE_DIFF함수를 `submission_date - TO_DATE('2016-03-01','yyyy-mm-dd')`로 변경
 
@@ -147,23 +210,42 @@ ORDER BY S1.submission_date ASC;
     ```
 * 다음 목표
   * 두가지 문제 해결 필요 
+    * 해결 완료 (1/2 작성)
+      * 문제 발생 원인 : 풀이에서 부호 방향을 잘못 작성함
+      * 설명 : 기준날짜('2016-03-03') 미만의 submission_date('2016-03-01','2016-03-02')의 개수(`2`)와 일치하는 hacker를 찾으면 되니까 기준날짜가 되는 T1.submission_date 미만인 T2.submission_date으로 (T1.submission_date > T2.submission_date)로 작성해야하는데 부호를 반대로 작성하여 오답 발생
 
-
-### MY SQL 다른 사람 답변
-* [참고 사이트](https://github.com/BlakeBrown/HackerRank-Solutions/blob/master/SQL/5_Advanced%20Join/5_15%20Days%20of%20Learning%20SQL/15%20Days%20of%20Learning%20SQL.mysql) 
+### window function 사용 문제 답변
 
 ```SQL
-SELECT SUBMISSION_DATE,
-(SELECT COUNT(DISTINCT HACKER_ID)  
- FROM SUBMISSIONS S2  
- WHERE S2.SUBMISSION_DATE = S1.SUBMISSION_DATE AND    
-(SELECT COUNT(DISTINCT S3.SUBMISSION_DATE) 
- FROM SUBMISSIONS S3 WHERE S3.HACKER_ID = S2.HACKER_ID AND S3.SUBMISSION_DATE < S1.SUBMISSION_DATE) = DATEDIFF(S1.SUBMISSION_DATE , '2016-03-01')),
-(SELECT HACKER_ID FROM SUBMISSIONS S2 WHERE S2.SUBMISSION_DATE = S1.SUBMISSION_DATE 
-GROUP BY HACKER_ID ORDER BY COUNT(SUBMISSION_ID) DESC, HACKER_ID LIMIT 1) AS TMP,
-(SELECT NAME FROM HACKERS WHERE HACKER_ID = TMP)
-FROM
-(SELECT DISTINCT SUBMISSION_DATE FROM SUBMISSIONS) S1
-GROUP BY SUBMISSION_DATE;
+  SELECT S1.submission_date
+        ,S1.hacker_cnt
+        ,S2.hacker_id
+        ,H.name
+  FROM 
+      (SELECT submission_date
+            ,COUNT(DISTINCT hacker_id) hacker_cnt
+      FROM  Submissions T1
+      WHERE submission_date - to_date('2016-03-01','yyyy-mm-dd') =
+            (SELECT COUNT(DISTINCT T2.submission_date)
+            FROM Submissions T2
+            WHERE T1.submission_date > T2.submission_date
+            AND T1.hacker_id = T2.hacker_id)
+            GROUP BY submission_date) S1
+      LEFT JOIN 
+      (SELECT submission_date, hacker_id
+      FROM(SELECT submission_date
+                  ,hacker_id
+                  ,sub_cnt
+                  ,ROW_NUMBER() OVER(PARTITION BY submission_date ORDER BY sub_cnt DESC, hacker_id ASC) sub_rank
+            FROM(SELECT submission_date
+                      ,hacker_id
+                      ,COUNT(*) sub_cnt
+                FROM  Submissions
+                GROUP BY submission_date, hacker_id) T1) T2
+      WHERE sub_rank = 1) S2
+      ON S1.submission_date = S2.submission_date
+      LEFT JOIN Hackers H
+      ON S2.hacker_id = H.hacker_id
+  ORDER BY S1.submission_date ASC;
 
 ```
