@@ -55,6 +55,25 @@
 #### 2023년 1월 
 
 <details>
+<summary>230103</summary>
+<div markdown="1">
+
+* 조달청 공공 발주 용역 사업 데이터 전처리
+  * 목적 : 데이터 기반 영업전략 수립하는 업무에 활용
+  * 사용기술 : Python
+  * 내용 : 공공데이터 포털에서 수집한 조달청 용역 입찰 공고 내역 데이터 (`2019~2022`) 전처리 
+
+* Hackerrank SQL 문제 Interviews 풀기 시도(Hard 난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 학습 내용 : 5개 데이터 테이블 파악 
+  * 향후 계획 : SQL 문제 Interviews 풀기
+ 
+</div>
+</details>
+
+
+<details>
 <summary>230102</summary>
 <div markdown="1">
 
