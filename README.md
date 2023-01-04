@@ -55,6 +55,20 @@
 #### 2023년 1월 
 
 <details>
+<summary>230104</summary>
+<div markdown="1">
+
+* Hackerrank SQL 문제 Interviews 풀기 (Hard 난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[230104] Hackerrank_Interviews.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B230104%5D%20Hackerrank_Interviews.md)
+ 
+</div>
+</details>
+
+
+
+<details>
 <summary>230103</summary>
 <div markdown="1">
 
