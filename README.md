@@ -67,6 +67,7 @@
   * 목적 : sql 학습
   * 사용기술 : SQL(`MYSQL`)
   * 학습 내용 : 5개 데이터 테이블 파악 
+    ![image](https://user-images.githubusercontent.com/45919197/210580781-806ad0c5-9b13-44e3-8b9c-56855bd53617.png)
   * 향후 계획 : SQL 문제 Interviews 풀기
  
 </div>
