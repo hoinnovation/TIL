@@ -55,6 +55,24 @@
 #### 2023년 1월 
 
 <details>
+<summary>230105</summary>
+<div markdown="1">
+
+* 공공데이터 포털에서 수집한 `2019~2022` 조달청 용역 입찰 공고 내역 데이터 필터링 및 전처리
+  * 목적 : 데이터 기반 영업전략 수립하는 업무에 활용
+  * 사용기술 : Python
+  * 내용 : 
+    * 단어 빈도 분석과 동시 출현 단어 분석으로 도출한 키워드와 불용어로 공고 내역 리스트 필터링
+    * 중복 사업 확인 후 제거  
+
+* MY SQL Stored Procedure 학습
+  * 목적 : Hackerrank SQL 문제 Print Prime Numbers 풀기
+
+</div>
+</details>
+
+
+<details>
 <summary>230104</summary>
 <div markdown="1">
 
