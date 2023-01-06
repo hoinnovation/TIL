@@ -55,6 +55,16 @@
 #### 2023년 1월 
 
 <details>
+<summary>230106</summary>
+<div markdown="1">
+
+* MY SQL Stored Procedure 학습
+  * 목적 : Hackerrank SQL 문제 Print Prime Numbers 풀기
+
+</div>
+</details>
+
+<details>
 <summary>230105</summary>
 <div markdown="1">
 
