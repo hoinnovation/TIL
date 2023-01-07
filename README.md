@@ -55,6 +55,18 @@
 #### 2023년 1월 
 
 <details>
+<summary>230107</summary>
+<div markdown="1">
+
+* 책 "SQL 코딩의 기술 (똑똑하게 코딩하는 법)" 읽기
+  * 목적 : Hackerrank SQL 문제 Print Prime Numbers 풀기
+  * 내용 : SQL 재귀 CTE(공통 테이블 표현식) 학습 
+    * 추가적인 로우를 생성하기 위해 자기 자신을 호출하여 재귀 기능 구현하는 방법 학습 
+
+</div>
+</details>
+
+<details>
 <summary>230106</summary>
 <div markdown="1">
 
@@ -112,6 +124,11 @@
     ![image](https://user-images.githubusercontent.com/45919197/210580781-806ad0c5-9b13-44e3-8b9c-56855bd53617.png)
   * 향후 계획 : SQL 문제 Interviews 풀기
  
+
+
+
+
+
 </div>
 </details>
 
