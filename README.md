@@ -55,6 +55,27 @@
 #### 2023년 1월 
 
 <details>
+<summary>230111</summary>
+<div markdown="1">
+
+* 1월 Monthly계획 작성
+  * 목적 : 학습 한 시간관리 방법 적용하여 1월 목표 선정 및 시간 배치 → 1월 말 or 2월 초에 피드백 예정
+  * 내용 :  
+    * (1) 1월에 해야 할 일과 하고 싶은 일을 나열
+    * (2) 중요도와 긴급도에 따라 Focus Board에 배치
+    * (3) Focus Board에 작성한 리스트 중 가장 중요한 목표 5가지 선정
+    * (4) 5가지 목표 중, 가장 중요한 목표 1가지 선정
+    * (5) 목표 달성을 위해 언제, 어디서, 얼마나 시간을 쓸 계획인지 시간 계획
+    * (6) 목표 달성을 위해 해야 할 것과 피해야 할 방해 요소 작성
+    * (7) 최종 목표 선정 및 주별 목표 분배와 목표 집중시간 배치
+    ![image](https://user-images.githubusercontent.com/45919197/211848425-40ade2ba-d00d-4d20-9edc-60dcca13b4ed.png)
+
+
+</div>
+</details>
+
+
+<details>
 <summary>230110</summary>
 <div markdown="1">
 
