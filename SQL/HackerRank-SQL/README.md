@@ -18,6 +18,7 @@
     * [Contest Leaderboard](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221227%5D%20Hackerrank_Contest%20Leaderboard.md)
     * [Symmetric Pairs](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221228%5D%20Hackerrank_Symmetric%20Pairs.md)
     * [The Report](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B221229%5D%20Hackerrank_The%20Report.md)
+    * [The PADS](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B230112%5D%20Hackerrank_The%20PADS.md)
 
   * `Hard`
     * [15 Days of Learning SQL](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B230102%5D%20Hackerrank_15%20Days%20of%20Learning%20SQL%20.md)
