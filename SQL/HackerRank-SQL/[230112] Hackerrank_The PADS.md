@@ -1,6 +1,6 @@
 
 # Hackerrank
-## `Hard` The PADS
+## `Medium` The PADS
 * 문제 바로가기 : [링크](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)
   
 ### 문제 (1)
