@@ -55,6 +55,19 @@
 #### 2023년 1월 
 
 <details>
+<summary>230112</summary>
+<div markdown="1">
+
+* Hackerrank SQL 문제 The PADS 풀기 (Medium 난이도)
+  * 목적 : sql 학습
+  * 사용기술 : SQL(`MYSQL`)
+  * 코드 : [[230112] Hackerrank_The PADS.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B230112%5D%20Hackerrank_The%20PADS.md)
+
+</div>
+</details>`
+
+
+<details>
 <summary>230111</summary>
 <div markdown="1">
 
