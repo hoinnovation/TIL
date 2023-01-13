@@ -64,7 +64,7 @@
   * 코드 : [[230112] Hackerrank_The PADS.md](https://github.com/hoinnovation/TIL/blob/main/SQL/HackerRank-SQL/%5B230112%5D%20Hackerrank_The%20PADS.md)
 
 </div>
-</details>`
+</details>
 
 
 <details>
