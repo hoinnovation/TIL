@@ -55,6 +55,20 @@
 #### 2023년 1월 
 
 <details>
+<summary>230113</summary>
+<div markdown="1">
+
+* 프로그래머스 SQL 문제 풀기
+  * 목적 : SQL 학습
+  * 사용기술 : SQL (`MYSQL`) 
+  * 내용 : 
+    * 헤비유저가 소유한 장소 (Lv.3)
+    * 서울에 위치한 식당 목록 출력하기 (Lv.4)
+
+</div>
+</details>
+
+<details>
 <summary>230112</summary>
 <div markdown="1">
 
