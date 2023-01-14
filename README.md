@@ -55,6 +55,19 @@
 #### 2023년 1월 
 
 <details>
+<summary>230114</summary>
+<div markdown="1">
+
+* 공공데이터 포털에서 수집한 `2020~2022` 조달청 용역 입찰 공고 내역 데이터 텍스트 전처리
+  * 목적 : 데이터 기반 영업전략 수립하는 업무에 활용
+  * 사용기술 : Python
+  * 내용 : 
+    * 1회성 사업, 연속 사업 구분을 위해 텍스트 전처리 
+
+</div>
+</details>
+
+<details>
 <summary>230113</summary>
 <div markdown="1">
 
