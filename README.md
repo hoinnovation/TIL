@@ -55,6 +55,18 @@
 #### 2023년 1월 
 
 <details>
+<summary>230117</summary>
+<div markdown="1">
+
+* 공공데이터 포털에서 수집한 `2020~2022` 조달청 용역 입찰 공고 내역 리스트를 3가지 기준으로 분류한 데이터 EDA 진행
+  * 목적 : 데이터 기반 영업전략 수립하는 업무에 활용
+  * 사용기술 : SQL
+
+</div>
+</details>
+
+
+<details>
 <summary>230116</summary>
 <div markdown="1">
 
