@@ -55,6 +55,29 @@
 #### 2023년 1월 
 
 <details>
+<summary>230118</summary>
+<div markdown="1">
+
+* `기본키(Primary Key)` 와 `유니크키(Unique Key)` 차이 학습
+  * 목적 : DB구축 및 운영시 데이터 무결성 관리
+  * 내용 : 
+    * `기본키(Primary Key)` 
+      * 중복 허용 x
+      * NULL값을 허용 x
+      * 테이블에서 한 개 만 생성 가능
+    * `유니크키(Unique Key, Unique Index)`
+      * 중복 허용 x
+      * NULL값 허용
+      * 테이블에서 여러개 생성 가능
+    * Unique Index만을 사용해도 테이블에 유일성을 부여할 수 있으나, PK를 사용하지 않는다는 것은 데이터의 무결성을 DB에 맡기지 않고, 전적으로 application에서 주관한다는 의미
+    * application은 여러 개발자가 긴 시간동안 개발하여 많은 문제가 있을 수 있고, 변경도 있을 수 있으므로 100% 데이터 무결성을 유지하기란 현실적으로 불가능
+    * 업무의 흐름이 중요하고 모아진 데이터에 대해 정확한 통계 데이터를 산출하고자 하는 업무일수록 데이터 무결정 유지가  중요한 관건
+  * [참고 블로그](http://mopsi.egloos.com/v/10082590)
+
+</div>
+</details>
+
+<details>
 <summary>230117</summary>
 <div markdown="1">
 
