@@ -55,6 +55,46 @@
 #### 2023년 1월 
 
 <details>
+<summary>230119</summary>
+<div markdown="1">
+
+* 한 COLUMN에 문자가 구분자로 합쳐져있을 때 ROW로 변환하기
+  * Before 테이블 `과일`
+    |종류|
+    |------|
+    |사과,딸기,복숭아,수박|
+  * After 테이블 `과일`
+    |종류|
+    |------|
+    |사과|
+    |딸기|
+    |복숭아|
+    |수박|
+  * 내용 : 
+    ```SQL
+    -- MY SQL 방식 (MSSQL에서는 STRING_SPLIT(column, 구분자)를 활용하면 쉽게 가능)
+    SELECT
+      SUBSTRING_INDEX (SUBSTRING_INDEX(`과일`.`종류`,',',numbers.n),',',-1) AS 종류           
+    FROM
+      (SELECT  1 n UNION ALL  
+       SELECT  2  UNION ALL  
+       SELECT  3  UNION ALL 
+       SELECT 4) numbers INNER  JOIN 테이블명
+        on CHAR_LENGTH ( `과일`.`종류` ) 
+          - CHAR_LENGTH ( REPLACE ( `과일`.`종류` ,  ',' ,  '' ))>= numbers . n-1
+    ``` 
+  * 설명 :
+    * (1) 구분자로 구분 된 종류 개수가 4개이므로, 4개의 행을 가진 빈 테이블 nubers를 만들어준다.
+      * 구분자로 구분 된 종류 개수가 많은 경우 union all의 개수를 늘려주면 된다. (빈 테이블을 구분자로 구분된 종류만큼 만들어주면 됨)
+    * (2) 구분자','의 개수 +1 만큼 변수를 넣어주기 위해 on 조건에 CHAR_LENGTH를 활용한다.
+    * (3) SUBSTRING_INDEX()한 문자열에 SUBSTRING_INDEX(,구분자,-1) 함수를 한 번 더 해준 것은 구분자마다 뽑은 행에서 index에 맞는 값을 추출하기 위해 사용
+  * 참고 블로그
+    * [코딩하는 금융인](https://codingspooning.tistory.com/entry/MySQL-%EC%97%AC%EB%9F%AC-%ED%96%89%EC%9C%BC%EB%A1%9C-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0-%EA%B5%AC%EB%B6%84%EC%9E%90)
+    * [UNDEFINED](https://dzzienki.tistory.com/35)
+</div>
+</details>
+
+<details>
 <summary>230118</summary>
 <div markdown="1">
 
