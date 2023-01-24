@@ -55,6 +55,16 @@
 #### 2023년 1월 
 
 <details>
+<summary>230124</summary>
+<div markdown="1">
+
+* 링크드인 프로필 업데이트 방법 등 벤치마킹 리서치
+
+</div>
+</details>
+
+
+<details>
 <summary>230123</summary>
 <div markdown="1">
 
