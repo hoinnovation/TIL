@@ -61,7 +61,7 @@
 * [Power Bi 강의 듣기](https://www.youtube.com/watch?v=8DjfDJgOb94)
   * 목적 : 대시보드 개발 업무에 활용 
   * 내용 
-    * 드릴 스루: 원본 ㅂ보고서 페이지의 데이터 요소를 마우스 오른쪽 단추로 클릭하면 포커스가 있는 대상 페이지로 드릴스루 하여 패당 컨텍스트로 필터링 되는 세부 정보를 가져올 수 있는 기능
+    * 드릴 스루: 원본 보고서 페이지의 데이터 요소를 마우스 오른쪽 단추로 클릭하면 포커스가 있는 대상 페이지로 드릴스루 하여 패당 컨텍스트로 필터링 되는 세부 정보를 가져올 수 있는 기능
       * [마이크로소프트 공식 설명서](https://learn.microsoft.com/ko-kr/power-bi/create-reports/desktop-drillthrough)
     * 도구 설명 : 시각적 개체를 가르키면 나타나는 보고서 도구 설명
       * [마이크로소프트 공식 설명서](https://learn.microsoft.com/ko-kr/power-bi/create-reports/desktop-tooltips?tabs=powerbi-desktop)
