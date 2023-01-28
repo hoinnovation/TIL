@@ -55,6 +55,39 @@
 #### 2023년 1월 
 
 <details>
+<summary>230128</summary>
+<div markdown="1">
+
+* **`Jaro-Winkler Distance` 알고리즘 스터디**
+  * 상황 : 띄어쓰기나 연도가 앞에 붙어서 실제로는 같은 사업이 3년 연속 발주 된 것이지만, 다른 사업으로 분류 되는 경우 존재 
+  * 현재 해결 방법 : 해당 case들을 눈으로 확인 후 딕셔너리 만들어서, 텍스트 전처리 진행 
+  * 목적 : 문자열 유사열 알고리즘으로 해결 할 수 있을 것 같아서 진행
+  * 알고리즘 선택 이유 : 
+    * [논문](https://koreascience.kr/article/JAKO202034352378495.pdf)결과와 회사 내부 실험에 따르면 `Jaro-Winkler Distance` 알고리즘이 가장 좋은 성능을 보였고, 두 문자열의 유사도를 측정할 때 가장 너그러운 점수를 줬음  
+    * 알고리즘 적용을 고민 한 이유는, 동일한 사업인데 동일하게 분류되지 않다는 것을 해결하고 싶기 때문임, 즉 더 많은 동일한 사업을 찾아내는 것이 목적
+    * 더 많은 동일한 사업을 찾아낼 수 있는 가장 너그럽게 유사도를 측정하는 알고리즘을 선택함 (유사도 결과를 보고, 문자열 유사도 점수 뿐 만 아니라 다른 조건도 사용하는 것 고려 예정) 
+  * 내용 : 
+    * Jaro Winkler similarity : 
+      * 두 문자열 사이의 편집 거리를 측정 한 것 
+      * Jaro similarity와 비슷하지만, 문자열에 정의된 최대 길이 'L'까지 공통 접두어를 가질 때 더 정확한 답을 제공하는 접두어 척도 'P'를 사용
+      * Sw = Sj + P * L * (1 – Sj) 
+        * Sj는 Jaro similarity
+        * Sw는 jaro- winkler similarity
+        * P는 scaling factor (0.1 by default)
+        * L은 the length of the matching prefix up to a maximum of 4 characters.
+    * Jaro similarity 
+      * 두 문자열 간의 유사성을 측정 한 것으로 범위는 0~1 (1은 문자열이 같음을 의미, 0은 두 문자열 사이에 유사성이 없음을 의미)
+      ![image](https://user-images.githubusercontent.com/45919197/215267613-67f8c468-8f26-4e37-8bc8-b93c210db609.png)
+      * s1, s2는 비교하는 두 문자열
+      * m은 일치하는 문자 수
+      * t는 (두 문자열에서 일치하는 문자 수)/2
+  * 출처 : [geeksforgeeks Jaro and Jaro-Winkler similarity](https://www.geeksforgeeks.org/jaro-and-jaro-winkler-similarity/)
+
+</div>
+</details>
+
+
+<details>
 <summary>230127</summary>
 <div markdown="1">
 
