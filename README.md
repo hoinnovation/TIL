@@ -4,7 +4,7 @@
 
 ## 01. small success🎉
 
-#### 2022년
+#### 2022년 11월 ~ 12월
 <details>
 <summary>1일 1커밋 습관 달성</summary>
 <div markdown="1">
