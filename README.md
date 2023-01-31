@@ -30,7 +30,7 @@
 <summary>한 달 동안, 시간 기록하는 챌린저스 100% 달성</summary>
 <div markdown="1">
 
-* 기간 : 2022-1-11 ~ 2022-12-31 
+* 기간 : 2023-1-11 ~ 2023-1-31 
 ![image](https://user-images.githubusercontent.com/45919197/215796405-f1fa70fc-88b6-4a19-bb62-26547fd8ceee.png)
 
 * 시간 기록으로 배운 점 : 
