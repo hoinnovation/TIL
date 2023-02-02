@@ -92,6 +92,18 @@
 ## 02. TIL 🚀
 
 #### 2023년 2월
+
+<details>
+<summary>230202</summary>
+<div markdown="1">
+
+* **트레바리 마케팅-심플 1번째 모임 준비** 
+  * 내용 : `프로세스 이코노미`에 대한 발제 내용 답변 준비
+
+</div>
+</details>
+
+
 <details>
 <summary>230201</summary>
 <div markdown="1">
