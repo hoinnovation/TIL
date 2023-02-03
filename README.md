@@ -94,6 +94,17 @@
 #### 2023년 2월
 
 <details>
+<summary>230203</summary>
+<div markdown="1">
+
+* [Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp#machine-learning-zoomcamp) 수강 
+  * 학습 내용 : 6. Decision Trees and Ensemble Learning, [6.1 Credit risk scoring project](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/06-trees/01-credit-risk.md)
+ 
+</div>
+</details>
+
+
+<details>
 <summary>230202</summary>
 <div markdown="1">
 
