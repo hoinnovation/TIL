@@ -94,6 +94,17 @@
 #### 2023년 2월
 
 <details>
+<summary>230205</summary>
+<div markdown="1">
+
+* 온라인 밋업 [인공지능 ChatGPT를 내 일과 비즈니스에 활용하는 방법](https://www.youtube.com/watch?v=si1-Jv8gQWU)듣고 B2B업계 선배님과 커피챗 진행
+  * 내용 : ChatGPT가 비즈니스에 가져 올 변화에 대해 의견을 나누고, 어떻게 적용 할 수 있을지 아이디어 공유
+ 
+</div>
+</details>
+
+
+<details>
 <summary>230204</summary>
 <div markdown="1">
 
