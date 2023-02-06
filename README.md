@@ -94,6 +94,16 @@
 #### 2023년 2월
 
 <details>
+<summary>230206</summary>
+<div markdown="1">
+
+* 깃허브 블로그 만들기 시도
+  * 내용 : 티스토리랑 깃허브 블로그 동시 운영하기 위해 깃허브 블로그 만들기 시도했음, jekyll설치 에러 발생해서 잠시 멈춘 상태..... 내일 해결 해보기
+ 
+</div>
+</details>
+
+<details>
 <summary>230205</summary>
 <div markdown="1">
 
