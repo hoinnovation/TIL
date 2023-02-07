@@ -94,6 +94,17 @@
 #### 2023년 2월
 
 <details>
+<summary>230207</summary>
+<div markdown="1">
+
+* 공공데이터 포털 OPEN API 받아서 Dataframe 변환하는 코드 짜기
+  * 목적 : 대시보드 만들 때 dataset을 올렸는데, 실시간 데이터가 대시보드에 반영되게 해보기 위한 작업하려고 진행
+
+</div>
+</details>
+
+
+<details>
 <summary>230206</summary>
 <div markdown="1">
 
