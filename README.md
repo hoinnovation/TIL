@@ -94,6 +94,18 @@
 #### 2023년 2월
 
 <details>
+<summary>230211</summary>
+<div markdown="1">
+
+* 2022년 회고, 2023년 목표를 담은 블로그 글 작성 
+  * 목적 : 글또 8기 첫번째 글 업로드
+  * 블로그 글 링크 : https://velog.io/@h-go-getter/Goodbye-2022%EB%85%84-Hello-2023%EB%85%84
+
+</div>
+</details>
+
+
+<details>
 <summary>230210</summary>
 <div markdown="1">
 
@@ -104,6 +116,7 @@
 
 </div>
 </details>
+
 
 
 <details>
