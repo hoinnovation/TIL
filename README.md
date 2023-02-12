@@ -94,6 +94,17 @@
 #### 2023년 2월
 
 <details>
+<summary>230212</summary>
+<div markdown="1">
+
+* `고객을 끌어오는 구글 애널리틱스 4` 책 스터디
+  * 목적 : GA 결과 분석해서 웹 서비스 개선 포인트 발굴  
+
+</div>
+</details>
+
+
+<details>
 <summary>230211</summary>
 <div markdown="1">
 
