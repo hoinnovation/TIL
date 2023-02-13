@@ -93,6 +93,18 @@
 
 #### 2023년 2월
 
+
+<details>
+<summary>230213</summary>
+<div markdown="1">
+
+* 구글 애널리틱스4로 비즈니스 개선한 해외 사례  리서치
+  * 목적 : 블로그 글감 찾기  
+
+</div>
+</details>
+
+
 <details>
 <summary>230212</summary>
 <div markdown="1">
