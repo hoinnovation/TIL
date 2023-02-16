@@ -94,6 +94,15 @@
 #### 2023년 2월
 
 <details>
+<summary>230216</summary>
+<div markdown="1">
+
+* `분석용 데이터 마트 기획` 조사
+
+</div>
+</details>
+
+<details>
 <summary>230215</summary>
 <div markdown="1">
 
