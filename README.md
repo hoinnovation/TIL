@@ -93,6 +93,21 @@
 
 #### 2023년 2월
 
+
+<details>
+<summary>230217</summary>
+<div markdown="1">
+
+* [카일스쿨 Ep 5. 데이터 엔지니어가 하는 일은? 데이터 엔지니어 공부 방법! (저만의 공부 방법 포함!)](https://www.youtube.com/watch?v=1Viu7Ce632s) 보며 스터디
+  * 목적 : 
+    * 구현하고 싶은게 있는데 데이터 분석 역량 뿐 만아니라 데이터 엔지니어 역량도 필요함 
+    * 데이터 마트 기획이나 구축을 찾아보다가 데이터 엔지니어 업무를 잘 정리해주신 영상을 보며 뭘 하면 될지 정리 진행
+
+</div>
+</details>
+
+
+
 <details>
 <summary>230216</summary>
 <div markdown="1">
