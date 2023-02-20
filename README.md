@@ -100,6 +100,8 @@
 * `PSI(Population Stability Index)`블로그 글 작성을 위한 비즈니스 적용 사례 리서치 
   * 목적 : 글또 8기 두 번째 글 업로드
 
+* [컬리의 BigQuery 도입기 - 1부, 2부 읽기](https://helloworld.kurly.com/blog/bigquery-2/)
+
 </div>
 </details>
 
