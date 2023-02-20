@@ -94,6 +94,18 @@
 #### 2023년 2월
 
 <details>
+<summary>230220</summary>
+<div markdown="1">
+
+* `PSI(Population Stability Index)`블로그 글 작성을 위한 비즈니스 적용 사례 리서치 
+  * 목적 : 글또 8기 두 번째 글 업로드
+
+</div>
+</details>
+
+
+
+<details>
 <summary>230219</summary>
 <div markdown="1">
 
