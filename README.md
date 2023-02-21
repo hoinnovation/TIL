@@ -94,6 +94,17 @@
 #### 2023년 2월
 
 <details>
+<summary>230221</summary>
+<div markdown="1">
+
+* `PSI(Population Stability Index)`블로그 글 작성 중
+  * 목적 : 글또 8기 두 번째 글 업로드
+
+</div>
+</details>
+
+
+<details>
 <summary>230220</summary>
 <div markdown="1">
 
