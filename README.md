@@ -94,8 +94,23 @@
 #### 2023년 2월
 
 <details>
+<summary>230223</summary>
+<div markdown="1">
+
+* `PSI(Population Stability Index)`블로그 글 작성 중
+  * 목적 : 글또 8기 두 번째 글 업로드
+  * 느낀점 : 기업이 운영하는 기술 블로그와 [쏘카에서 기술블로그를 운영하는 방법](https://tech.socarcorp.kr/data/2023/02/15/how-to-organize-tech-blog.html)을 읽었다. 정해진 목차 형식으로 글을 전개하는 곳도 있고, 작성자의 자유롭게 전개하는 곳도 있었다. 공통적으로 이해가 잘됐던 흐름은 `(들어가며)어떤 문제가 있어서 이걸 하게 됐고 → (본문)무엇으로 어떻게 해결했고  → (마치며) 이 글을 보는 사람은 이 부분을 적용할 수 있을 거다 등 제안]`이었다. 흐름대로 글을 넣어보다보니 어떤 부분이 비어있고 부족한지 보여서 좋다! 좋은 글을 많이 읽어보자!
+
+</div>
+</details>
+
+
+
+
+<details>
 <summary>230222</summary>
 <div markdown="1">
+
 
 * `PSI(Population Stability Index)`블로그 글 작성 중
   * 목적 : 글또 8기 두 번째 글 업로드
