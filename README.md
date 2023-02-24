@@ -93,6 +93,18 @@
 
 #### 2023년 2월
 
+
+<details>
+<summary>230224</summary>
+<div markdown="1">
+
+* `빅데이터를 지탱하는 기술` 책 읽기
+  * 목적 : 데이터 엔지니어링 스터디   
+
+</div>
+</details>
+
+
 <details>
 <summary>230223</summary>
 <div markdown="1">
