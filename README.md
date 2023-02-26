@@ -94,6 +94,18 @@
 #### 2023년 2월
 
 <details>
+<summary>230226</summary>
+<div markdown="1">
+
+* PSI(Population Stability Index)블로그 글 작성
+  * 목적 : 글또 8기 두 번째 글 업로드
+  * 블로그 글 : [링크](https://velog.io/@h-go-getter/%EB%91%90-%EB%B6%84%ED%8F%AC%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94-%EC%84%B1%EB%8A%A5-%EC%A7%80%ED%91%9C-PSIPopulation-Stability-Index)
+  * 느낀점 : 읽는 사람 입장에서 작성하다보니 오래 걸렸다. 이번 기회로 틀을 잡아두었으니, 다음 글은 틀 잡는데는 오래 걸리진 않을 것 같다. 평일 점심시간이나 퇴근시간을 활용해서 다른 분들의 좋은 글을 읽어보자! 
+</div>
+</details>
+
+
+<details>
 <summary>230225</summary>
 <div markdown="1">
 
