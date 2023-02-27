@@ -94,6 +94,15 @@
 #### 2023년 2월
 
 <details>
+<summary>230227</summary>
+<div markdown="1">
+
+* [Enterprise Data governance and Access management](https://tv.naver.com/v/23651486)보기
+  * 목적 : 따로또같이 2월 모임 발표 준비
+</div>
+</details>
+
+<details>
 <summary>230226</summary>
 <div markdown="1">
 
