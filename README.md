@@ -135,6 +135,20 @@
 #### 2023년 3월
 
 <details>
+<summary>230302</summary>
+<div markdown="1">
+
+* [데이터야놀자 2022 데이터로 이 서비스 만들어보기](https://www.youtube.com/watch?v=9gaS0eJ-nJs)보기
+  * 목적 : 엔지니어는 아니지만 데이터로 그럴싸한 토이서비스 만들어보고 싶었는데 좋은 영상 추천 받아서 봤음 
+
+* [Google Cloud OnBoard Seoul OnAir 데이터 레이크 및 데이터베이스](https://www.youtube.com/watch?v=BLQ-p_Uf64I)보는 중
+  * 목적 : 위의 영상을 바로 이해하기엔 데이터엔지니어링 지식이 부족해 어려웠음. GCP 사용해서 만들고 싶었는데 좋은 영상이 있어서 학습 중
+
+</div>
+</details>
+
+
+<details>
 <summary>230301</summary>
 <div markdown="1">
 
