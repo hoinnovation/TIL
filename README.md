@@ -163,8 +163,8 @@
     ![image](https://user-images.githubusercontent.com/45919197/222174817-97f794f6-14b0-46aa-a78c-0cf74fd784f4.png)
 
 
-* 독서모임 `미친듯이 심플` 독후감 작성 
-    ![image](https://user-images.githubusercontent.com/45919197/222165215-49bf6e9f-ad30-4507-abbc-5c79c9934929.png)
+* 독서모임 `미친듯이 심플` 독후감 작성   
+  ![image](https://user-images.githubusercontent.com/45919197/222165215-49bf6e9f-ad30-4507-abbc-5c79c9934929.png)
   * 책 소개: 
     * 애플의 잇따른 혁신을 가능하게 한 '단순함'의 11가지 원칙이 담긴 책
     * 17년 간 스티브 잡스와 함께 애플의 광고와 마케팅을 이끌며, 혁신을 가능하게 했던 켄 시걸의 책
