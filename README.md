@@ -135,6 +135,16 @@
 #### 2023년 3월
 
 <details>
+<summary>230307</summary>
+<div markdown="1">
+
+* `Staying Customer by TIME 그래프`블로그 글 작성을 위한 비즈니스 적용 사례 리서치 
+  * 목적 : 글또 8기 세 번째 글 업로드
+
+</div>
+</details>
+
+<details>
 <summary>230304</summary>
 <div markdown="1">
 
