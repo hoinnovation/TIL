@@ -135,6 +135,18 @@
 #### 2023년 3월
 
 <details>
+<summary>230308</summary>
+<div markdown="1">
+
+* `Staying Customer by TIME 그래프`블로그 글 작성을 위한 해외 사례 리서치 및 데이터 확보
+  * 목적 : 글또 8기 세 번째 글 업로드
+
+* 이전 회사 동료(`사업개발 직무`)와 온라인 커피챗 진행
+
+</div>
+</details>
+
+<details>
 <summary>230307</summary>
 <div markdown="1">
 
