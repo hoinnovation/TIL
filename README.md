@@ -135,6 +135,18 @@
 #### 2023년 3월
 
 <details>
+<summary>230309</summary>
+<div markdown="1">
+
+* 최근 3년 `데이터 산업백서` 이슈 정리
+  * 목적 : 회사 내부 공유 목적
+
+* `데이터 분석가` 동료와 커피챗 진행
+
+</div>
+</details>
+
+<details>
 <summary>230308</summary>
 <div markdown="1">
 
