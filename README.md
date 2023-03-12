@@ -135,6 +135,17 @@
 #### 2023년 3월
 
 <details>
+<summary>230312</summary>
+<div markdown="1">
+
+* `오프라인 매장 방문자를 분석하는 그래프 Staying customer by time (시간 당 체류 고객 수)` 블로그 글 작성
+  * 목적 : 글또 8기 두 번째 글 업로드
+  * 블로그 글 : [링크](https://velog.io/@h-go-getter/오프라인-매장-방문자를-분석하는-그래프-Staying-customer-by-time-시간-당-체류-고객-수)
+  * 느낀점 : 틀은 잡아두었지만, 새로운 개념을 공부하면서 쓰다보니 오래 걸렸다. 퇴고 시기를 좀 더 앞당겨보자. 그 전에 기획은 해두지만, 퇴고를 당일에 하게 되니까 완성도가 떨어지는 것 같아 아쉽다.  
+</div>
+</details>
+
+<details>
 <summary>230311</summary>
 <div markdown="1">
 
