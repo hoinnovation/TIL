@@ -135,6 +135,19 @@
 #### 2023년 3월
 
 <details>
+<summary>230313</summary>
+<div markdown="1">
+
+* 데이터 거버넌스, 메타데이터 관리 사례 조사
+  * 목적 : 업무 활용
+
+* `사업의 철학` 책 읽기
+  * 목적 : 기술자가 아닌 기업가 마인드 탑재
+
+</div>
+</details>
+
+<details>
 <summary>230312</summary>
 <div markdown="1">
 
