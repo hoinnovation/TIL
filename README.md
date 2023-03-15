@@ -135,6 +135,19 @@
 #### 2023년 3월
 
 <details>
+<summary>230315</summary>
+<div markdown="1">
+
+* `데이터 분석가` 동료와 커피챗 진행
+  * 내용 : 이야기를 나누면서 나의 일과 내가 무엇에 더 집중하면 좋을지 정리를 하게 된다.
+
+* `사업의 철학` 책 읽기
+  * 목적 : 기술자가 아닌 기업가 마인드 탑재
+
+</div>
+</details>
+
+<details>
 <summary>230314</summary>
 <div markdown="1">
 
