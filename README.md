@@ -135,6 +135,22 @@
 #### 2023년 3월
 
 <details>
+<summary>230316</summary>
+<div markdown="1">
+
+* [Google Cloud OnBoard Seoul OnAir 데이터 웨어하우스 BigQuery](https://www.youtube.com/watch?v=waYtvIXFZ0Q&list=PLWYw-NqNglu74dQzdVaM-XVHl9_3O8QwJ&index=2)보는 중
+  * 목적 : GCP 전반적으로 파악하고 싶어서 시리즈 이어서 듣는 중
+
+* `사업의 철학` 책 읽기
+  * 목적 : 기술자가 아닌 기업가 마인드 탑재
+
+* `데이터 분석가` 동료와 커피챗 진행
+  * 느낀점 : 업무에서 많은 걸 시도해보고싶다는 생각이 드는 유익한 시간었다!
+
+</div>
+</details>
+
+<details>
 <summary>230315</summary>
 <div markdown="1">
 
