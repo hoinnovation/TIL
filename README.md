@@ -134,6 +134,19 @@
 
 #### 2023년 3월
 
+
+<details>
+<summary>230321</summary>
+
+* 1분기 회고글 작성 중
+  * 목적 : 글또 8기 네 번째 글 업로드
+ 
+* `GA4`관련 세미나 듣기
+  * 목적 : GA4 업무에 활용
+  
+</details>
+
+
 <details>
 <summary>230320</summary>
 
