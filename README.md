@@ -136,6 +136,17 @@
 
 
 <details>
+<summary>230322</summary>
+
+* 1분기 회고글 작성 중
+  * 목적 : 글또 8기 네 번째 글 업로드
+ 
+* Chat GPT 업무 적용 사례 조사
+  * 목적 : 업무에 활용
+  
+</details>
+
+<details>
 <summary>230321</summary>
 
 * 1분기 회고글 작성 중
