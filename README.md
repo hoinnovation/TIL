@@ -135,6 +135,15 @@
 #### 2023년 3월
 
 <details>
+<summary>230324</summary>
+
+* [[좋아하는 서비스 분석] B2B SaaS 채널톡 1편](https://velog.io/@h-go-getter/%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B6%84%EC%84%9D-B2B-SaaS-%EC%B1%84%EB%84%90%ED%86%A1-1%ED%8E%B8) 글 업로드
+  * 목적 : 글또 8기 네 번째 블로그 글 업로드
+  * 내용 : 회고 글을 업로드 하고자 했으나, 3월을 마무리하고 올리는게 좋을 것 같아서 다음 글로 예정하고 있었던 서비스 분석 글을 먼저 정리해서 올림
+  
+</details>
+
+<details>
 <summary>230323</summary>
 
 * 1분기 회고글 작성 중
