@@ -135,6 +135,14 @@
 #### 2023년 4월
 
 <details>
+<summary>230405</summary>
+
+* `B2B SaaS 주요 지표` 스터디
+    * 목적 : 글또 8기 다섯번째 글 업로드 겸 B2B산업 공부
+    
+</details>
+
+<details>
 <summary>230404</summary>
 
 * `B2B SaaS 주요 지표` 스터디
