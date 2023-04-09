@@ -25,7 +25,7 @@
 </details>
 
 <details>
-<summary>한 달 동안, 시간 기록하는 챌린저스 100% 달성</summary>
+<summary>시간 기록 100% 달성</summary>
 <div markdown="1">
 
 * 기간 : 2023-03-01 ~ 2023-03-31
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-<summary>시간 기록 100% 달성</summary>
+<summary>한 달 동안, 시간 기록하는 챌린저스 100% 달성</summary>
 <div markdown="1">
 
 * 기간 : 2023-2-01 ~ 2023-2-28 
