@@ -135,6 +135,14 @@
 #### 2023년 4월
 
 <details>
+<summary>230409</summary>
+
+* `생존을 넘어 번창으로` 읽기
+    * 목적 : B2B스타트업의 바이블 같은 책이라고 소개 받은 책으로 업무에 참고하고 싶어 읽는 중
+
+</details>
+
+<details>
 <summary>230408</summary>
 
 * [[좋아하는 서비스 분석] B2B SaaS 채널톡 2편](https://velog.io/@h-go-getter/%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B6%84%EC%84%9D-B2B-SaaS-%EC%B1%84%EB%84%90%ED%86%A1-2%ED%8E%B8) 글 업로드
