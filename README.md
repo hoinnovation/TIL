@@ -176,7 +176,7 @@
 <summary>230423</summary>
 
 * [`1분기 회고글`](https://velog.io/@h-go-getter/%EC%97%B4%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%82%AC%EB%9E%8C%EC%9D%98-2023%EB%85%84-1%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0
-#### 2023년 4월) 작성
+) 작성
   * 목적 : 글또 8기 다섯번째 블로그 글 업로드
 
 </details>
