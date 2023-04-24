@@ -173,6 +173,14 @@
 ## 02. TIL 🚀
 
 <details>
+<summary>230424</summary>
+
+ * 기술 블로그 읽으며 내 업무에 적용해 볼 수 있는 것들 따로 기록해두기
+    * 목적 : 1) 나와 비슷한 고민을 가진 사람은 어떻게 문제를 해결했는지 보고 배우자! 2)좋은 글을 많이 읽어야 좋은 글을 쓸 수 있다!
+  
+</details>
+
+<details>
 <summary>230423</summary>
 
 * [`1분기 회고글`](https://velog.io/@h-go-getter/%EC%97%B4%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%82%AC%EB%9E%8C%EC%9D%98-2023%EB%85%84-1%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0
