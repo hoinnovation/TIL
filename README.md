@@ -173,6 +173,15 @@
 ## 02. TIL 🚀
 
 <details>
+<summary>230427</summary>
+
+* `이것은 작은 브랜드를 위한 책` 읽기
+  * 목적 : 트레바리 4번째 독서모임 준비
+  
+
+</details>
+
+<details>
 <summary>230426</summary>
 
 * `데이터 분석가` 동료와 커피드백 진행 
