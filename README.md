@@ -26,7 +26,7 @@
 <div markdown="1">
 
 * 기간 : 2023-04-01 ~ 2023-04-30
-<img src="https://user-images.githubusercontent.com/45919197/235448559-ee4759aa-e35e-49f6-8474-c7b35e8b3962.png" width="500" height="400">
+<img src="https://user-images.githubusercontent.com/45919197/235450448-236c2aed-8a98-4f58-8eaa-d9d11b85850d.png" width="500" height="400">
 
 * 4월을 한 마디로 표현하면?
   * 내 시간을 지키기 위한 목적과 목표를 분명히 할 수 있었다
