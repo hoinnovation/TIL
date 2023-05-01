@@ -69,8 +69,7 @@
 <div markdown="1">
 
 * 기간 : 2023-2-01 ~ 2023-2-28 
-![image](https://user-images.githubusercontent.com/45919197/222179723-c0164b48-9ebf-4bc4-a714-a82d3c3c0878.png)
-
+<img src="https://velog.velcdn.com/images/h-go-getter/post/66a3eb61-5ce4-4ae9-b06c-f43a5eef2f8c/image.png" width="500" height="400" >
 
 * 2월을 한 마디로 표현하면?
   * 내 자신을 더 이해 할 수 있었던 달
@@ -91,7 +90,7 @@
 <summary>1일 1커밋 100% 달성</summary>
 <div markdown="1">
 
-* 기간 : 2023-1-1 ~ 2022-1-31 
+* 기간 : 2023-1-1 ~ 2022-1-31  
 ![image](https://user-images.githubusercontent.com/45919197/215790067-a40a18fe-d682-449d-b106-f50cb903be62.png)
 
 * 달성할 수 있었던 전략 : 
@@ -112,7 +111,7 @@
 <div markdown="1">
 
 * 기간 : 2023-1-11 ~ 2023-1-31 
-![image](https://user-images.githubusercontent.com/45919197/215796405-f1fa70fc-88b6-4a19-bb62-26547fd8ceee.png)
+<img src="https://velog.velcdn.com/images/h-go-getter/post/9cc4ec4c-ca6c-47de-b716-2cba8f550d05/image.png" width="500" height="400" >
 
 * 시간 기록으로 배운 점 : 
   * 내가 어디에 시간을 쓰고 있는지 파악 하고, 어떤 시간을 관리해야 내가 원하는 것을 할 수 있을지 판단이 가능 해짐 
