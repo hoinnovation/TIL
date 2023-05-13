@@ -214,6 +214,14 @@
 #### 2023년 5월
 
 <details>
+<summary>230513</summary>
+    
+ * `세이노의 가르침` 읽기
+    * 목적 : 커피챗 준비 
+           
+</details>
+
+<details>
 <summary>230512</summary>
     
  *  시간관리 모임 및 강의 기획
