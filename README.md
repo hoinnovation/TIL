@@ -213,6 +213,16 @@
 
 #### 2023년 5월
 
+
+<details>
+<summary>230517</summary>
+
+* `데이터 파이프라인` 공부
+  * 목적 : 업무 활용, 글또 8기 여섯번째 블로그 글 업로드
+      
+</details>
+
+
 <details>
 <summary>230516</summary>
     
