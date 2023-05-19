@@ -214,6 +214,14 @@
 #### 2023년 5월
 
 <details>
+<summary>230519</summary>
+
+* `백엔드 세미나` 참여
+   * 내용 : 참여 이후 작성 예정
+      
+</details>
+
+<details>
 <summary>230518/summary>
     
  * 데이터 분석가 동료와 커피챗 진행
