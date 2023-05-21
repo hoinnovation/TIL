@@ -214,6 +214,15 @@
 #### 2023년 5월
 
 <details>
+<summary>230521</summary>
+    
+ * '[공공데이터로 의사결정에 도움되는 Power BI 대시보드 개발기](https://velog.io/@h-go-getter/%EA%B3%B5%EA%B3%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EC%97%90-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-Power-BI-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EA%B8%B0)' 글 작성
+    * 목적 : 글또 8기 여섯번째 블로그 글 업로드
+      
+</details>
+
+
+<details>
 <summary>230520</summary>
     
  * PM을 위한 데이터 리터러시(프러덕트 데이터 분석) 강의 듣기
