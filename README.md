@@ -214,6 +214,14 @@
 #### 2023년 5월
 
 <details>
+<summary>230523</summary>
+
+* `생존을 넘어 번창으로` 읽기
+  * 목적 : 경영 마인드 배우기
+
+</details>
+
+<details>
 <summary>230522</summary>
    
  * `데이터 파이프라인` 공부
