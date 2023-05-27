@@ -214,6 +214,14 @@
 #### 2023년 5월
 
 <details>
+<summary>230527</summary>
+   
+ * `일의 격` 읽기
+   * 목적 : 일과 삶을 변화하는 마인드 탑재
+   
+</details>
+
+<details>
 <summary>230526</summary>
    
  * `일의 격` 읽기
