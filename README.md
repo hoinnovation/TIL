@@ -214,6 +214,14 @@
 #### 2023년 5월
 
 <details>
+<summary>230529</summary>
+   
+ * `GA4` 공부
+    * 목적 : 웹사이트 개선 활용
+   
+</details>
+
+<details>
 <summary>230528</summary>
    
  * `일의 격` 읽기
