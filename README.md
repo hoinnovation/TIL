@@ -214,6 +214,15 @@
 #### 2023년 5월
 
 <details>
+<summary>230530</summary>
+
+* ` 문자열 유사열 알고리즘` 스터디 
+  * 목적 : 업무 활용, 글또 8기 여섯번째 블로그 글 업로드
+      
+</details>
+
+
+<details>
 <summary>230529</summary>
    
  * `GA4` 공부
