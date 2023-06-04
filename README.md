@@ -214,6 +214,14 @@
 #### 2023년 6월
 
 <details>
+<summary>230604</summary>
+
+* [퇴근 후, 문자열 유사성 알고리즘 적용해서 업무 개선해보기](https://velog.io/@h-go-getter/%ED%87%B4%EA%B7%BC-%ED%9B%84-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9C%A0%EC%82%AC%EC%84%B1-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%81%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%97%85%EB%AC%B4-%EA%B0%9C%EC%84%A0%ED%95%B4%EB%B3%B4%EA%B8%B0) 업로드
+  * 목적 : 업무 활용, 글또 글 업로드
+
+</details>
+
+<details>
 <summary>230603</summary>
 
 * ` 문자열 유사열 알고리즘` 활용해서 비즈니스 업무 개선 
