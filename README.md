@@ -214,6 +214,14 @@
 #### 2023년 6월
 
 <details>
+<summary>230607</summary>
+
+* `일의격` 읽기
+  * 목적 : 일하는 마음 고민
+
+</details>
+
+<details>
 <summary>230606</summary>
 
 * 태블로 데이터 시각화 스터디
