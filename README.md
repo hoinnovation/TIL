@@ -4,6 +4,42 @@
 
 ## 01. small success🎉
 
+#### 2023년 5월
+<details>
+<summary>1일 1커밋 100% 달성</summary>
+
+* 기간 : 2023-05-01 ~ 2023-05-31  
+  <img src="https://github.com/hoinnovation/TIL/assets/45919197/8cf26fa8-bcca-47f4-bf24-ffed2359490f" width="400" height="200">
+ 
+* 달성할 수 있었던 전략 :
+    * 4월과 마찬가지로 출근 전 or 퇴근 후 2시간, 주말 4시간 공부하는 습관을 완전 정착했음🎉
+    <img src="https://github.com/hoinnovation/TIL/assets/45919197/0cfa6fff-4125-4130-a200-924595fe17c0" width="300" height="300">
+* 1일 1커밋으로 배운 점 :
+  * 5월에는 private repository에서 스터디 한 코드 기록하고, 이슈 발행한 뒤 개선해 나가서 의미 있었음
+* 앞으로 적용할 점
+  * 공부한 내용을 3가지(업무, 개인프로젝트, 독서)로 분류해서 올려보기! 어떤 공부를 하는지 트래킹해서 균형을 맞출 필요있음!
+</div>
+</details>
+
+<details>
+<summary>시간 기록 100% 달성</summary>
+<div markdown="1">
+
+* 기간 : 2023-05-01 ~ 2023-05-31  
+  <img src="https://github.com/hoinnovation/TIL/assets/45919197/a72c7865-f892-4b72-b525-c8ccb20e1167" width="500" height="400">
+
+* 5월을 한 마디로 표현하면?
+  * '태도'를 갖춘 사람에게 '우연'은 언제가 되었든 찾아올 수 밖에 없고, 따라서 그건 더이상 '우연'이 아니라 '필연'이다. 
+* 이번 달 시간 기록으로 배운 점 :
+  * 2분면에 의도적으로 시간을 배치했기에, 설정 한 목표의 달성률을 높일 수 있어서 의미있었다.
+  * 식단에 대한 트래킹을 시작했는데, 어떤 음식이 나에게 맞고 안 맞는지 알 수 있어 재밌었다.
+* 앞으로 적용할 점
+   * 회고/정리 시간을 일요일 저녁에 확보하려고 했는데, 블로그 업로드 시간과 겹쳐서 달성하지 못한 경우가 많았다. 업로드 시간을 토욜로 앞당겨보자.
+   * 유튜브, 드라마 등 콘텐츠를 보는 시간도 계획해보자. 나의 의도와 부합하지 않은 것을 낭비시간으로 보고 줄일 생각을 해보자. 
+
+</div>
+</details>
+
 #### 2023년 4월
 <details>
 <summary>1일 1커밋 100% 달성</summary>
@@ -26,7 +62,7 @@
 <div markdown="1">
 
 * 기간 : 2023-04-01 ~ 2023-04-30
-<img src="https://user-images.githubusercontent.com/45919197/235450448-236c2aed-8a98-4f58-8eaa-d9d11b85850d.png" width="500" height="400">
+<img src="https://github.com/hoinnovation/TIL/assets/45919197/7100fe20-20fa-4f07-b41d-4adb664340cb" width="500" height="400">
 
 * 4월을 한 마디로 표현하면?
   * 내 시간을 지키기 위한 목적과 목표를 분명히 할 수 있었다
@@ -185,29 +221,6 @@
 
 </div>
 </details>
-
-
-<details>
-<summary>LeetCode SQL 문제 Medium, Hard 풀기 </summary>
-<div markdown="1">
-※preminum제외
-
-* [176. Second Highest Salary](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221202%5D%20LeetCode_176.%20Second%20Highest%20Salary.md)
-* [177. Nth Highest Salary](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221213%5D%20LeetCode_177.%20Nth%20Highest%20Salary.md)
-* [178. Rank Scores.md](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221201%5D%20LeetCode_178.%20Rank%20Scores.md)
-* [180. Consecutive Numbers](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221212%5D%20LeetCode_180.%20Consecutive%20Numbers.md)
-* [184. Department Highest Salary](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221214%5D%20LeetCode_184.%20Department%20Highest%20Salary.md)
-* [185. Department Top Three Salaries](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221208%5D%20LeetCode_185.%20Department%20Top%20Three%20Salaries.md)
-* [262. Trips and Users](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221210%5D%20LeetCode_262.%20Trips%20and%20Users.md)
-* [601. Human Traffic of Stadium](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221207%5D%20LeetCode_601.%20Human%20Traffic%20of%20Stadium.md)
-* [608. Tree Node](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221206%5D%20LeetCode_608.%20Tree%20Node.md)
-* [626. Exchange Seats](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221129%5D%20LeetCode_626.%20Exchange%20Seats.md)
-* [1158. Market Analysis I](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221203%5D%20LeetCode_1158.%20Market%20Analysis%20I.md)
-* [1393. Capital GainLoss](https://github.com/hoinnovation/TIL/blob/main/SQL/LeetCode-SQL/%5B221205%5D%20LeetCode_1393.%20Capital%20GainLoss.md)
-</div>
-</details>
-
-
 
 ## 02. TIL 🚀
 
