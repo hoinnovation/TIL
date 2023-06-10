@@ -227,6 +227,14 @@
 #### 2023년 6월
 
 <details>
+<summary>230610</summary>
+
+* (독서) `일의격` 읽기
+  * 목적 : 일하는 마음 고민
+
+</details>
+
+<details>
 <summary>230609</summary>
 
 * (독서) `일의격` 읽기
