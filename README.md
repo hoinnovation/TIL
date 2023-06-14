@@ -227,6 +227,14 @@
 #### 2023년 6월
 
 <details>
+<summary>230615</summary>
+
+* (독서) `원칙` 읽기
+  * 목적 : 인생 철학 정의
+
+</details>
+
+<details>
 <summary>230614</summary>
    
     
