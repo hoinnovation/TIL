@@ -227,6 +227,14 @@
 #### 2023년 6월
 
 <details>
+<summary>230619</summary>
+
+* (독서) `원칙` 읽기
+  * 목적 : 인생 철학 정의
+
+</details>
+
+<details>
 <summary>230618</summary>
     
  * (개인 스터디) [내가 배달 서비스 데이터 분석가 라면, 어떻게 로그를 설계할까?](https://url.kr/j2184c) 업로드
