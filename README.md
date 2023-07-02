@@ -228,6 +228,15 @@
 
 
 <details>
+<summary>230702</summary>
+
+* (개인프로젝트) [6개월 동안 꾸준히 시간 기록을 통해 삶을 관리해 본 후기](https://velog.io/@h-go-getter/6%EA%B0%9C%EC%9B%94-%EB%8F%99%EC%95%88-%EA%BE%B8%EC%A4%80%ED%9E%88-%EC%8B%9C%EA%B0%84-%EA%B8%B0%EB%A1%9D%EC%9D%84-%ED%86%B5%ED%95%B4-%EC%82%B6%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%B4-%EB%B3%B8-%ED%9B%84%EA%B8%B0) 글 작성
+  * 목적 : 글또 글 업로드
+
+</details>
+
+
+<details>
 <summary>230701</summary>
 
 * (개인프로젝트) `시간관리 커뮤니티` 1기-2회차 모임 준비
