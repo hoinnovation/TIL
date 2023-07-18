@@ -297,6 +297,15 @@
 </details>
 
 <details>
+<summary>230716</summary>
+
+* (개인 스터디) ['2분기 회고 및 글또 후기' 글](https://velog.io/@h-go-getter/%EC%97%B4%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%82%AC%EB%9E%8C%EC%9D%98-2023%EB%85%84-2%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0-%EA%B8%80%EB%98%90%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B0) 업로드
+  * 목적 : 2분기 회고 글 업로드 & 글또 활동 마무리
+
+</details>
+
+
+<details>
 <summary>230715</summary>
 
 * (개인 스터디) '2분기 회고 및 글또 후기' 글 작성
