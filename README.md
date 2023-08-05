@@ -311,6 +311,14 @@
 ### 2023년 8월
 
 <details>
+<summary>230805</summary>
+
+* (개인프로젝트) 8월 Focsu Board + Montly Focsu 작성
+  * 목적 : 7월 회고 내용을 기반으로 8월에 어떤 마인드로 살 것이며, 어떤 목표를 이룰 것인지 작성함으로써 의미있는 것에 집중하기 위함
+
+</details>
+
+<details>
 <summary>230804</summary>
 
 * (업무 스터디) 업무 관련 스터디 진행 
