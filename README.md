@@ -311,6 +311,14 @@
 ### 2023년 8월
 
 <details>
+<summary>230806</summary>
+
+* (업무 스터디) 업무 관련 스터디 진행 
+  * 목적 : 업무 빠른 적응을 위해 스터디
+
+</details>
+
+<details>
 <summary>230805</summary>
 
 * (개인프로젝트) 8월 Focsu Board + Montly Focsu 작성
