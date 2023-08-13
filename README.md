@@ -311,6 +311,15 @@
 ### 2023년 8월
 
 <details>
+<summary>230813</summary>
+
+* (글작성) [입사 하루 만에 파악할 수 있는 Apache Zeppelin 사용법](https://velog.io/@h-go-getter/%EC%9E%85%EC%82%AC-%ED%95%98%EB%A3%A8-%EB%A7%8C%EC%97%90-%ED%8C%8C%EC%95%85%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-Apache-Zeppelin-%EC%82%AC%EC%9A%A9%EB%B2%95) 글 작성
+  * 목적 : 업무 활용 글 작성
+
+</details>
+
+
+<details>
 <summary>230812</summary>
 
 * (개인프로젝트) `시간관리 커뮤니티` 2기-3회차 모임 준비
