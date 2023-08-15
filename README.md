@@ -310,6 +310,13 @@
 
 ### 2023년 8월
 
+<details>
+<summary>230815</summary>
+
+* (업무 스터디) 업무 관련 스터디 진행 
+  * 목적 : 업무 빠른 적응을 위해 스터디
+
+</details>
 
 <details>
 <summary>230814</summary>
