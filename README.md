@@ -309,6 +309,13 @@
 
 ### 2023년 8월
 
+<details>
+<summary>230827</summary>
+
+* (개인 스터디) folium 스터디 진행
+  * 목적 : 지도 시각화에 대한 블로그 글 쓰기위해 진행
+
+</details>
 
 <details>
 <summary>230826</summary>
