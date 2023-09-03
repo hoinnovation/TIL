@@ -310,6 +310,13 @@
 ### 2023년 9월
 
 <details>
+<summary>230903</summary>
+
+* (개인프로젝트) 9월 월간목표 수립
+
+</details>
+
+<details>
 <summary>230902</summary>
 
 * (개인프로젝트) `시간관리 커뮤니티` 3기-1회차 모임 준비
