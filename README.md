@@ -310,6 +310,14 @@
 ### 2023년 9월
 
 <details>
+<summary>230908</summary>
+
+* (독서) '인생을 바꾸는 생각들' 
+  * 목적 : 마인드셋
+
+</details>
+
+<details>
 <summary>230907</summary>
 
 * (업무 스터디) 업무 관련 스터디 진행 
