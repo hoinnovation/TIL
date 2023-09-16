@@ -310,6 +310,14 @@
 ### 2023년 9월
 
 <details>
+<summary>230916</summary>
+
+* (개인스터디) 베이즈통계학 스터디
+   * 목적 : 업무적용
+  
+</details>
+
+<details>
 <summary>230915</summary>
 
 * (독서) '스마트브래비티' 
