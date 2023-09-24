@@ -310,6 +310,14 @@
 ### 2023년 9월
 
 <details>
+<summary>230924</summary>
+
+* (업무 스터디) 업무 관련 스터디 진행 
+  * 목적 : 업무 빠른 적응을 위해 스터디
+
+</details>
+
+<details>
 <summary>230923</summary>
 
 * (개인스터디) 취업 특강 진행
