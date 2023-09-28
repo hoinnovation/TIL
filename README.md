@@ -310,6 +310,14 @@
 ### 2023년 9월
 
 <details>
+<summary>230928</summary>
+
+* (독서) '스마트브래비티' 
+  * 목적 : 커뮤니케이션 역량 향상
+
+</details>
+
+<details>
 <summary>230927</summary>
 
 * (업무 스터디) 업무 관련 스터디 진행 
