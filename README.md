@@ -310,6 +310,14 @@
 ### 2023년 9월
 
 <details>
+<summary>230929</summary>
+
+* (독서) '스마트브래비티' 
+  * 목적 : 커뮤니케이션 역량 향상
+
+</details>
+
+<details>
 <summary>230928</summary>
 
 * (독서) '스마트브래비티' 
