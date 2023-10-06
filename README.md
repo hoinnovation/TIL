@@ -310,6 +310,16 @@
 ### 2023년 10월
 
 <details>
+<summary>231006</summary>
+
+* (독서) '도둑맞은 집중력' 8장, 9장
+  * 목적 : 마인드셋
+
+
+</details>
+
+
+<details>
 <summary>231005</summary>
 
 * (독서) '도둑맞은 집중력' 6장, 7장
