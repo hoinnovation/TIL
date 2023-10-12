@@ -310,6 +310,14 @@
 ### 2023년 10월
 
 <details>
+<summary>231012</summary>
+
+ * (독서) '부자아빠 가난한아빠' 3장, 4장
+  * 목적 : 마인드셋
+
+</details>
+
+<details>
 <summary>231011</summary>
 
 * (업무 스터디) 업무 관련 스터디 진행 
