@@ -310,7 +310,15 @@
 ### 2023년 10월
 
 <details>
-<summary>231016</summary>
+<summary>231018</summary>
+
+ * (독서) '부자아빠 가난한아빠' 10장(완독)
+  * 목적 : 마인드셋
+
+</details>
+
+<details>
+<summary>231017</summary>
 
  * (독서) '부자아빠 가난한아빠' 9장
   * 목적 : 마인드셋
