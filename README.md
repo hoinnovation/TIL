@@ -12,7 +12,7 @@
 * 기간 : 2023-08-01 ~ 2023-08-31  
 * 달성할 수 있었던 전략 :
     * 열품타를 통해 출근 전 or 퇴근 후, 주말 공부하는 습관을 잘 이어오고 있음🎉 
-      <img src="https://github.com/hoinnovation/hoinnovation/assets/45919197/449476e3-2dee-4215-a011-1cd3c852cca3" width="300" height="300">
+      <img src="https://github.com/hoinnovation/TIL/assets/45919197/79d170e2-47e2-4d3e-8b7e-3eb74375edf6" width="300" height="300">
 * 1일 1커밋 회고 :
   * 8월에는 빠른 업무 적응을 위해 의도적으로 업무 스터디에 많은 시간을 쏟고자 했고 실제로도 많은 시간을 할애함!
 </div>
