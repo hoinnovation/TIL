@@ -389,6 +389,14 @@
 ### 2023년 10월
 
 <details>
+<summary>231024</summary>
+
+ * (독서) '데이터 과학자 원칙' 1장
+   * 목적 : 일에 대한 원칙과 철학
+
+</details>
+
+<details>
 <summary>231023</summary>
 
 * (업무 스터디) 업무 관련 스터디 진행 
