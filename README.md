@@ -390,6 +390,22 @@
 
 
 <details>
+<summary>231029</summary>
+
+
+ * (개인스터디) ['인생 첫 특강 준비기'](https://velog.io/@h-go-getter/%EC%9D%B8%EC%83%9D-%EC%B2%AB-%ED%8A%B9%EA%B0%95-%EB%8D%B0%EB%B7%94%EA%B8%B0-2%ED%83%84.-Data-AnalystBusiness-Analyst-%EC%B7%A8%EC%97%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%B3%84-%EA%B2%BD%ED%97%98-%EA%B3%B5%EC%9C%A0) 글 마무리 후 업로드 
+   * 목적 : 경험 공유 글 작성
+
+* (개인스터디) 10월 회고 진행
+  * 목적 : 10월 목표 달성 점검 및 다음 달 적용할 액션플랜 정리
+
+* (독서) '레슨인 케미스트리' 7장~9장
+  * 목적 : 다양한 사람의 삶을 모습을 마주하고 들여다보며 사람에 대한 이해도 높이기
+
+</details>
+
+
+<details>
 <summary>231028</summary>
 
 * (개인프로젝트) `시간관리 커뮤니티` 5기 -사전 모임 준비 후 배포
