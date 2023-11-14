@@ -389,6 +389,20 @@
 ### 2023년 11월
 
 <details>
+<summary>231114</summary>
+
+
+* (업무 스터디) 업무 관련 스터디 진행 (folium,cost)
+  * 목적 : 과제 수행을 위한 스터디
+
+* (독서) '부자아빠 가난한아빠2' 6장
+  * 목적 : 마인드셋
+
+   
+</details>
+
+
+<details>
 <summary>231113</summary>
 
 
