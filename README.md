@@ -390,6 +390,21 @@
 
 
 <details>
+<summary>231128</summary>
+
+* (독서) '데이터를 엮는 사람들 데이터 과학자' 2장
+  * 목적 : 일에 대한 마인드셋
+ 
+</details>
+
+<details>
+<summary>231125~231127</summary>
+
+* 여행✈️
+ 
+</details>
+
+<details>
 <summary>231124</summary>
 
 * (독서) '데이터를 엮는 사람들 데이터 과학자' 2장
