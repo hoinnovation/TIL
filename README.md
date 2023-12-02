@@ -387,6 +387,13 @@
 ## 02. TIL 🚀
 
 ### 2023년 12월
+<details>
+<summary>231202</summary>
+
+* (독서) '퓨처셀프' 프롤로그 
+  * 목적 : 내년 계획, 3년 뒤 계획, 5년 뒤 계획 더 나아가 비전 달성을 위해 스터디
+ 
+</details>
 
 <details>
 <summary>231201</summary>
