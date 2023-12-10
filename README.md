@@ -389,13 +389,27 @@
 ### 2023년 12월
 
 <details>
+<summary>231210</summary>
+
+* (독서) '퓨처셀프' part2
+  * 목적 : 내년 계획, 3년 뒤 계획, 5년 뒤 계획 더 나아가 비전 달성을 위해 독서
+
+* (개인 스터디) 블로그 글[Python Folium을 사용해서, 대한민국 법정동 경계선 시각화해보기
+](https://velog.io/@h-go-getter/Python-Folium%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%B2%95%EC%A0%95%EB%8F%99-%EA%B2%BD%EA%B3%84%EC%84%A0-%EC%8B%9C%EA%B0%81%ED%99%94%ED%95%B4%EB%B3%B4%EA%B8%B0) 업로드
+  * 목적 : 내 경험을 나누고자함
+  
+* (개인 스터디) 이번주 회고 진행
+
+</details>
+
+<details>
 <summary>231209</summary>
 
 * (독서) '퓨처셀프' part2
   * 목적 : 내년 계획, 3년 뒤 계획, 5년 뒤 계획 더 나아가 비전 달성을 위해 독서
 
-* (개인 프로젝트) 블로그 글 쓰기
-  * 목적 : 내 경험을 나누기 위해 
+* (개인 스터디) 블로그 글 쓰기
+  * 목적 : 내 경험을 나누고자 함
 
 </details>
 
