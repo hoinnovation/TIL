@@ -389,6 +389,17 @@
 ### 2023년 12월
 
 <details>
+<summary>231224</summary>
+
+* (독서) 초생산성
+  * 목적 : 생산성 향상
+
+* (개인프로젝트) [연말 회고 글](https://velog.io/@h-go-getter/Goodbye-2023%EB%85%84-Hello-2024%EB%85%841%ED%83%84.-%EC%97%B4%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%97%B0%EB%A7%90%ED%9A%8C%EA%B3%A0%EB%A5%BC-%ED%95%A0%EA%B9%8C) 작성
+  * 목적 : 내 경험을 통해, 회고 하는 사람들이 아이디어를 얻는데 주고자함
+
+</details>
+
+<details>
 <summary>231223</summary>
 
 * (독서) 초생산성
