@@ -389,6 +389,13 @@
 ### 2023년 12월
 
 <details>
+<summary>231227</summary>
+
+* (독서) 초생산성
+  * 목적 : 생산성 향상
+</details>
+
+<details>
 <summary>231226</summary>
 
 * (독서) 초생산성
