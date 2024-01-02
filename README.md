@@ -389,6 +389,14 @@
 ### 2024년 1월
 
 <details>
+<summary>240102</summary>
+
+* (독서) 초생산성 (2회독)
+  * 목적 : 생산성 워크시트 실습
+    
+</details>
+
+<details>
 <summary>240101</summary>
 
 * (독서) 초생산성 (완독)
