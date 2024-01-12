@@ -389,6 +389,15 @@
 ### 2024년 1월
 
 <details>
+<summary>240112</summary>
+
+* (독서) 나는 돈이 없어도 사업을 한다
+  * 목적 : 비전 달성
+    
+</details>
+
+
+<details>
 <summary>240111</summary>
 
 * (독서) 나는 돈이 없어도 사업을 한다
