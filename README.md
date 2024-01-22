@@ -7,6 +7,18 @@
 ### 2024년 1월
 
 <details>
+<summary>240122</summary>
+
+* (업무 스터디) 업무 관련 스터디 진행 (회사 문서, 데이터)
+  * 목적 : 과제 수행을 위한 스터디
+   
+* (독서) 나는 직장에 다니면서 12개의 사업을 시작했다
+  * 목적 : 비전 달성
+
+</details>
+
+
+<details>
 <summary>240121</summary>
 
 * (개인스터디) [테크니컬라이팅 강의 듣고 적용점 글로 작성](https://velog.io/@h-go-getter/Udemy%EC%9C%A0%EB%8D%B0%EB%AF%B8-%EA%B0%95%EC%9D%98-%ED%9B%84%EA%B8%B0-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%8C%85)
