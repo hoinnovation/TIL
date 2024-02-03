@@ -7,6 +7,18 @@
 ### 2024년 2월
 
 <details>
+<summary>240203</summary>
+
+* (독서) 주식하는 마음
+  * 목적 : 금융 공부
+
+* (개인스터디) sql 쿼리 최적화 스터디
+  * 목적 : 쿼리 최적화
+
+
+</details>
+
+<details>
 <summary>240202</summary>
 
 * (독서) 주식하는 마음
