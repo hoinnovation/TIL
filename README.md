@@ -1,4 +1,4 @@
-![image](https://github.com/hoinnovation/TIL/assets/45919197/7cc39e43-7520-481f-b8c0-7d538e731690)# Today I Learned🔥
+# Today I Learned🔥
 > TIL에 매일 학습한 내용을 기록합니다.  
 > 항상 무언가를 듣고, 무언가를 생각하며, 무언가를 배우려고합니다.
 
