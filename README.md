@@ -6,6 +6,19 @@
 
 ### 2024년 2월
 
+
+<details>
+<summary>240217</summary>
+
+
+* (독서) 크래프톤웨이 
+  * 목적 : 비전 달성
+
+* (개인스터디) 비전 달성을 아티클 스터디
+  * 목적 : 비전 달성
+
+</details>
+
 <details>
 <summary>240216</summary>
 
