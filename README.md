@@ -7,15 +7,15 @@
 ### 2024년 2월
 
 <details>
-<summary>240217</summary>
+<summary>240218</summary>
 
 
 * (독서) 크래프톤웨이 
   * 목적 : 비전 달성
 
 
-* (개인스터디) sql 쿼리 최적화 스터디 후 블로그 글 작성 [presto SQL 쿼리 성능 향상을 위한 10가지 체크리스트](https://velog.io/@h-go-getter/presto-SQL-%EC%BF%BC%EB%A6%AC-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8)
-  * 목적 : 업무 경험 정리
+* (개인스터디) [SQL JOIN 연산할 때 확인해야 하는 5가지 체크리스트](https://velog.io/@h-go-getter/SQL-JOIN-%EC%97%B0%EC%82%B0%ED%95%A0-%EB%95%8C-%ED%99%95%EC%9D%B8%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8)  블로그 글 작성
+  * 목적 : 업무 경험 정리, 체크리스트 작성
 
 </details>
 
