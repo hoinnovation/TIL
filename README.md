@@ -7,6 +7,18 @@
 ### 2024년 2월
 
 <details>
+<summary>240219</summary>
+
+
+* (독서) 크래프톤웨이 
+  * 목적 : 비전 달성
+
+* 야근
+
+</details>
+
+
+<details>
 <summary>240218</summary>
 
 
