@@ -7,6 +7,19 @@
 ### 2024년 2월
 
 <details>
+<summary>240229</summary>
+
+
+* (독서) 시간을 지배하는 절대 법칙
+  * 목적 : 비전 달성
+
+* (업무 스터디) Metric store, Metric dictionary 리서치
+  * 목적 : 과제 수행을 위한 스터디
+
+</details>
+
+
+<details>
 <summary>240228</summary>
 
 
