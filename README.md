@@ -7,6 +7,19 @@
 ### 2024년 3월
 
 <details>
+<summary>20240303</summary>
+
+* (독서) 시간을 지배하는 절대 법칙 (완독)
+  * 목적 : 비전 달성
+
+* (개인스터디) [Metric Store(지표 저장소)에는 어떤 항목이 포함되면 좋을까?](https://velog.io/@h-go-getter/Metric-store%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%82%B4%EC%9A%A9%EC%9D%B4-%ED%8F%AC%ED%95%A8%EB%90%98%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C)
+  * 목적 : 업무 목표 달성
+
+* (개인스터디) 3월 월간목표 수립
+ 
+</details>
+
+<details>
 <summary>20240302</summary>
 
 * (독서) 시간을 지배하는 절대 법칙
