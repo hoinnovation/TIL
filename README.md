@@ -7,7 +7,18 @@
 ### 2024년 3월
 
 <details>
-<summary>20240305</summary>
+<summary>240306</summary>
+
+* (독서) 유연함의 힘
+  * 목적 : 비전 달성, 콘텐츠 제작
+
+* 야근
+  
+</details>
+
+
+<details>
+<summary>240305</summary>
 
 * (독서) 유연함의 힘
   * 목적 : 비전 달성, 콘텐츠 제작
@@ -19,7 +30,7 @@
 
 
 <details>
-<summary>20240304</summary>
+<summary>240304</summary>
 
 * (독서) 유연함의 힘
   * 목적 : 비전 달성, 콘텐츠 제작
@@ -33,7 +44,7 @@
 
 
 <details>
-<summary>20240303</summary>
+<summary>240303</summary>
 
 * (독서) 시간을 지배하는 절대 법칙 (완독)
   * 목적 : 비전 달성
@@ -46,7 +57,7 @@
 </details>
 
 <details>
-<summary>20240302</summary>
+<summary>240302</summary>
 
 * (독서) 시간을 지배하는 절대 법칙
   * 목적 : 비전 달성
@@ -58,7 +69,7 @@
 
 
 <details>
-<summary>20240301</summary>
+<summary>240301</summary>
 
 * (독서) 시간을 지배하는 절대 법칙
   * 목적 : 비전 달성
