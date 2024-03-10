@@ -7,6 +7,16 @@
 ### 2024년 3월
 
 <details>
+<summary>240310</summary>
+
+* (독서) 유연함의 힘
+  * 목적 : 비전 달성, 콘텐츠 제작
+
+* (개인스터디) 주간 회고
+  
+</details>
+
+<details>
 <summary>240309</summary>
 
 * (독서) 유연함의 힘
