@@ -7,6 +7,19 @@
 ### 2024년 3월
 
 <details>
+<summary>240317</summary>
+
+* (독서) 유연함의 힘
+  * 목적 : 비전 달성, 콘텐츠 제작
+
+* (업무 스터디) 업무 회고 후 글 작성 [업무 성장을 위한 회고: 나의 방법과 경험 소개](https://velog.io/@h-go-getter/%EC%97%85%EB%AC%B4-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%9A%8C%EA%B3%A0-%EB%82%98%EC%9D%98-%EB%B0%A9%EB%B2%95%EA%B3%BC-%EA%B2%BD%ED%97%98-%EC%86%8C%EA%B0%9C)
+  * 목적 : 업무 성장
+
+
+</details>
+
+
+<details>
 <summary>240316</summary>
 
 * (독서) 유연함의 힘
