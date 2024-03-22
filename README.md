@@ -7,6 +7,15 @@
 ### 2024년 3월
 
 <details>
+<summary>240322</summary>
+
+* (독서) 쏟아지는 일 완벽하게 해내는 법
+  * 목적 : 비전 달성, 삶에 적용
+
+</details>
+
+
+<details>
 <summary>240321</summary>
 
 * (독서) 쏟아지는 일 완벽하게 해내는 법
