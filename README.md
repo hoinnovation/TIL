@@ -7,6 +7,15 @@
 ### 2024년 3월
 
 <details>
+<summary>240323</summary>
+
+* (독서) 아이디어 불패의 법칙
+  * 목적 : 비전 달성 액션플랜 구체화
+
+</details>
+
+
+<details>
 <summary>240322</summary>
 
 * (독서) 쏟아지는 일 완벽하게 해내는 법
