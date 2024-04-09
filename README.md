@@ -7,6 +7,14 @@
 ### 2024년 4월 
 
 <details>
+<summary>240409</summary>
+ 
+* (독서) 쏟아지는 일 완벽하게 해내는 법
+  * 목적 : 시간관리
+
+</details>
+
+<details>
 <summary>240408</summary>
  
 * (독서) 쏟아지는 일 완벽하게 해내는 법
