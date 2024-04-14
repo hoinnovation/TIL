@@ -7,6 +7,19 @@
 ### 2024년 4월 
 
 <details>
+<summary>240414</summary>
+ 
+* (독서) 쏟아지는 일 완벽하게 해내는 법
+  * 목적 : 시간관리
+
+* (개인스터디) Kepler스터디 후 글 작성 [하루 만에 배우는 지리 데이터 시각화 : Uber가 만든 Kepler 사용법](https://velog.io/@h-go-getter/%ED%95%98%EB%A3%A8-%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%A7%80%EB%A6%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-Uber%EA%B0%80-%EB%A7%8C%EB%93%A0-Kepler-%EC%82%AC%EC%9A%A9%EB%B2%95)
+  * 목적 : 지리 데이터 시각화
+ 
+* (개인) 주간회고, 주간계획 수립
+
+</details>
+
+<details>
 <summary>240411</summary>
  
 * (독서) 쏟아지는 일 완벽하게 해내는 법
