@@ -7,6 +7,14 @@
 ### 2024년 5월 
 
 <details>
+<summary>240503</summary>
+ 
+* (독서) 무기가 되는 시스템
+  * 목적 : 비전달성
+
+</details>
+
+<details>
 <summary>240502</summary>
  
 * (개인프로젝트) `시간관리 커뮤니티` 7기 사전 모임 진행
