@@ -6,6 +6,15 @@
 
 ### 2024년 5월 
 
+
+<details>
+<summary>240505</summary>
+ 
+* (개인스터디) 글또 반상회 발표 준비
+  * 목적 : 업무 경험 공유  
+
+</details>
+
 <details>
 <summary>240504</summary>
  
