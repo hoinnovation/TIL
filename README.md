@@ -7,7 +7,19 @@
 ### 2024년 5월 
 
 <details>
-<summary>240506</summary>
+<summary>240508</summary>
+
+* (개인프로젝트) 비즈니스 피어러닝 세션 진행
+  * 목적 : 비전달성
+
+* (개인스터디) 글또 반상회 발표 준비
+  * 목적 : 업무 경험 공유  
+
+</details>
+
+
+<details>
+<summary>240507</summary>
  
 * (독서) 무기가 되는 시스템
   * 목적 : 비전달성
@@ -21,7 +33,7 @@
 </details>
 
 <details>
-<summary>240505</summary>
+<summary>240506</summary>
  
 * (개인스터디) 글또 반상회 발표 준비
   * 목적 : 업무 경험 공유  
