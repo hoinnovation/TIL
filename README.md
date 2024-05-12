@@ -7,6 +7,20 @@
 ### 2024년 5월 
 
 <details>
+<summary>240512</summary>
+
+* (개인프로젝트) 비즈니스 사업계획서 초안 작성
+  * 목적 : 비전달성
+
+* (개인스터디) [Udemy(유데미) 강의 후기 Apache Spark 와 Python으로 빅데이터 다루기 후기](https://velog.io/@h-go-getter/Udemy%EC%9C%A0%EB%8D%B0%EB%AF%B8-%EA%B0%95%EC%9D%98-%ED%9B%84%EA%B8%B0-Apache-Spark-%EC%99%80-Python%EC%9C%BC%EB%A1%9C-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0) 작성
+  * 목적 : 빅데이터 다루기
+
+* 주간 회고 & 계획
+
+</details>
+
+
+<details>
 <summary>240509</summary>
 
 * (개인스터디) 글또 반상회 발표
