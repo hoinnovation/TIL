@@ -7,6 +7,15 @@
 ### 2024년 5월 
 
 <details>
+<summary>240517</summary>
+ 
+* (개인프로젝트) 비즈니스 고객 가치방정식 수립
+  * 목적 : 비전달성
+
+
+</details>
+
+<details>
 <summary>240516</summary>
  
 * (개인프로젝트) 비즈니스 고객 가치 작성
