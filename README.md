@@ -7,6 +7,33 @@
 ### 2024년 5월 
 
 <details>
+<summary>240524</summary>
+
+* (개인프로젝트) 아이디어 확정 & 랜딩페이지 초안 작성 & 사례 스터디
+  * 목적 : 비전달성
+
+
+</details>
+
+
+<details>
+<summary>240522</summary>
+
+
+* (개인프로젝트) 비즈니스 '피어러닝' 진행
+  * 목적 : 비전달성
+
+
+</details>
+
+<details>
+<summary>240521</summary>
+
+* 야근
+
+</details>
+
+<details>
 <summary>240520</summary>
 
 * (업무프로젝트) 업무관련 스터디
