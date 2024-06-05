@@ -8,6 +8,15 @@
 ### 2024년 6월 
 
 <details>
+<summary>240605</summary>
+
+* (개인프로젝트) 자동화 과제 발굴
+  * 목적 : 고부가가치 활동에 집중하기 위해서 진행
+
+
+</details>
+
+<details>
 <summary>240603</summary>
 
 * 6월 월간계획 수립
